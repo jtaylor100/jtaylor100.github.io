@@ -35,3 +35,10 @@ p {
 	text-align: justify;
 	text-justify: inter-ideograph;
 }
+
+.fn {
+	vertical-align: super;
+	font-size: smaller;
+	text-decoration: none;
+	color: #ff3300;
+}
