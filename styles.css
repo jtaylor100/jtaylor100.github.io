@@ -42,3 +42,7 @@ p {
 	text-decoration: none;
 	color: #ff3300;
 }
+
+.bigger {
+	font-size: 48px;
+}
