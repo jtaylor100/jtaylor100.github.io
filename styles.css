@@ -42,3 +42,15 @@ p {
 	text-decoration: none;
 	color: #ff3300;
 }
+
+@media all and (max-width: 760px) {
+	body {
+		margin: 8px;
+	}
+
+	p {
+		text-align: left;
+	}
+	
+
+}
