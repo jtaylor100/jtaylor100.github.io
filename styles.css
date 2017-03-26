@@ -27,6 +27,10 @@ div#title h3 {
 	letter-spacing: 6px;
 }
 
+li {
+	padding-bottom: 10px;
+}
+
 h2,h3{
 	line-height:1.2;
 }
