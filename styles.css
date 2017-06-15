@@ -35,10 +35,21 @@ h2,h3{
 	line-height:1.2;
 }
 
+p:first-of-type {
+	text-indent: 0;
+}
+
 p {
 	text-align: justify;
 	text-justify: inter-ideograph;
+	margin:0;
+	text-indent: 3rem;
 }
+
+p:last-of-type {
+	margin-bottom: 2rem;
+}
+
 
 .fn {
 	vertical-align: super;
