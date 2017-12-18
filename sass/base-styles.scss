@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+
+	color: $blue;
+
+	&:hover {
+		color: $cyan;
+	}
+
+	&:visited {
+		color: $cyan;
+	}
+
+	&:active {
+		color: $magenta;
+	}
+}
