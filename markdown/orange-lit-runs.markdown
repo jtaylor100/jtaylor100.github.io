@@ -1,0 +1,67 @@
+---
+title: Orange Lit Runs
+date: 2015-12-10 
+author: Josh Taylor
+---
+	
+All in all I've been very lucky. I've never had any truly horrific actual
+physical events to deal with, but my brain has a habit of creating trouble,
+especially if there is very little of it around. It could come in the form of
+anxiety, suspicions, a very strong desire to be cold about things or just a
+silent numbness. The worst experiences I've had with this are now just foreign
+memories to me. Some have stuck though and revisit me occasionally.
+
+The majority of these experiences happened whilst at my sixth form college,
+Hills Road. Not to bring a bad reputation to the place, it is genuinely quite a
+pleasant institution. Lots of people go through there every year finding it a
+great place to study, some of my friends even claiming after leaving that "The
+Hills Road dream will never die" whatever that means. Roger Waters from Pink
+Floyd went there when it was still the Cambridge High School for Boys. He
+didn't have the best experience there and he developed a great opposition
+against the education system — prompting his writing of the Chart topping song
+"Another Brick in the Wall". Like Waters, I found it hard enjoy the place in
+many ways. Always managed to make me feel inferior, even after I gave my
+greatest efforts towards things.
+
+During the early winter of '13, I'm not sure what quite came over me but I
+suddenly decided that I needed to run. Even as the pavements were frosted over
+and I needed to be in college at 9:00am everyday after leaving my house at
+7:20am. So I started sleeping in early, wound my alarm slowly back to 5:00am,
+rolled out of bed, pulled on a pair of tracksuits and a sweater and ran into
+the 3 degrees morning.
+
+It was cold, slippery, silent except for the wind and the sky was black with
+clouds. I could see fairly well, my home village lit up in orange by the old
+street lamps. With an old pair of headphones in the garage I started to run
+with all the effort I had. Now this may seem extremely normal for the average
+Hills student at the time, all probably got regular exercise in their local gym
+early in the morning and collapsed in their central Cambridge flat which their
+fucking rich parents paid for outright. Exercise is good for the mind and good
+for confidence right?
+
+Suffice to say that I wasn't running for any of those things, nor had I ever
+really ran at length ever before in my life. I had gone through my entire
+childhood without playing sports or taking part in athletics; if I ever
+attempted playing then I would lose and feel mocked. As a result, running is
+terrifying to me especially in public, even today. The only place where I could
+build up courage to do it was my home town at 5 in the morning, when it was
+freezing cold so nobody would be out. Even then I was still terrified,
+occasionally sitting down on the ground and breathing hysterically, due to both
+a lack of fitness and the terror of what I was doing. Quite often I would have
+tears on my face even though it never felt like I was crying.
+
+During this phase time of running, I found Hills Road much easier to live with.
+My grades went up and I felt more confident in what I did and how I acted. The
+only visible effect of what I was doing in the mornings was that my voice grew
+very hoarse, from the constant breathing of cold air. Nobody knew what was
+going on, my family just thought I was trying to exercise. I didn't know what
+was going on but it helped. Slowly thought it became harder and harder to keep
+going, I would arrive at the College social area in the morning and feel
+exhausted. Exhausted in the body but much more so in the mind. Stopping after 3
+weeks was a difficult thing to do but ultimately it was the right thing, I
+would return to my dissatisfied ways at College and but in return I didn't have
+to face my biggest fears first thing in the morning.
+
+It might seem quite strange and pathetic to lots of people to have a fear of
+running or taking part. To me it feels quite natural somehow and I'm not sure
+if it's something permanent or if it will fade with time.

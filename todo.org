@@ -1,0 +1,6 @@
+* Post page
+** Meta tags (social media, etc. https://moz.com/blog/seo-meta-tags)
+** Style Post page
+* Home page
+* About Page
+* RSS
