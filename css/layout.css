@@ -7,6 +7,26 @@ html {
     html {
       font-size: 0.8rem; } }
 
+body {
+  margin: 0; }
+
+a {
+  text-decoration: none;
+  color: #268bd2; }
+  a:hover {
+    color: #2aa198;
+    text-decoration: underline; }
+  a:visited {
+    color: #2aa198; }
+  a:active {
+    color: #d33682; }
+
+h1 {
+  margin: 0;
+  padding: 5rem 0 0.5rem 0;
+  font-size: 3rem;
+  font-weight: 200; }
+
 .container {
   margin: 0 auto; }
   @media (max-width: 599px) {
@@ -26,8 +46,10 @@ html {
       max-width: 50rem; } }
 
 nav {
-  display: flex;
-  border-bottom: 0.2rem solid #eee8d5; }
+  background-color: #eee8d5;
+  border-top: 0.2rem solid #93a1a1; }
+  nav div.container {
+    display: flex; }
   nav figure {
     margin-left: 0.4rem;
     margin-right: 0; }
@@ -43,22 +65,9 @@ nav {
       padding: 0.8rem;
       font-size: 1.7rem;
       font-weight: 600;
-      border-left: 0.2rem solid #eee8d5; }
+      border-left: 0.2rem solid #fdf6e3; }
       @media (min-width: 600px) {
         nav ul.links li:last-of-type {
-          border-right: 0.2rem solid #eee8d5; } }
-
-body {
-  margin: 0; }
-
-a {
-  text-decoration: none;
-  color: #268bd2; }
-  a:hover {
-    color: #2aa198; }
-  a:visited {
-    color: #2aa198; }
-  a:active {
-    color: #d33682; }
+          border-right: 0.2rem solid #fdf6e3; } }
 
 /*# sourceMappingURL=layout.css.map */

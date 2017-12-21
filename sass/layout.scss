@@ -1,3 +1,4 @@
+// mixin for device breakpoints
 @mixin for-device($device) {
 	@if $device == phone-only {
 		@media (max-width: 599px) { @content; }
@@ -12,7 +13,7 @@
   	}
 }
 
-// Solarized Colour palette 
+// solarized colour palette 
 $base03:    rgb(0, 43, 54);
 $base02:    rgb(7, 54, 66);
 $base01:    rgb(88, 110, 117);
@@ -54,6 +55,38 @@ html {
 	}
 }
 
+// base styles
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+
+	color: $blue;
+
+	&:hover {
+		color: $cyan;
+		text-decoration: underline;
+	}
+
+	&:visited {
+		color: $cyan;
+	}
+
+	&:active {
+		color: $magenta;
+	}
+}
+
+h1 {
+	margin: 0;
+	padding: 5rem 0 0.5rem 0;
+
+	font-size: 3rem;
+	font-weight: 200;
+}
+
 .container {
 	margin: 0 auto;
 
@@ -79,9 +112,13 @@ html {
 }
 
 nav {
-	display: flex;
+	background-color: $base2;
+	border-top: 0.2rem solid $base1;
 
-	border-bottom: 0.2rem solid $base2;
+	div.container {
+		display: flex;
+	}
+
 
 	figure {
 		margin-left: 0.4rem;
@@ -106,15 +143,15 @@ nav {
 			font-size: 1.7rem;
 			font-weight: 600;
 
-			border-left: 0.2rem solid $base2;
+			border-left: 0.2rem solid $base3;
 
 			&:last-of-type {
 				@include for-device(tablet-portrait-up) {
-					border-right: 0.2rem solid $base2;
+					border-right: 0.2rem solid $base3;
 				}
 			}
 		}
 	}
 }
 
-@import 'base-styles'
+
