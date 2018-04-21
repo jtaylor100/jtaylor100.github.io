@@ -1,57 +1,52 @@
-<!doctype html>
 <html lang="en">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>
-			$if(title)$
-				$title$ - 
-			$endif$
-			CodeStraw
-		</title>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>
+    $if(title)$
+    $title$ - 
+    $endif$
+    CodeStraw
+  </title>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta name="description" content="Guides to software and technology that are just a little more drinkable alongside rambling opinion pieces.">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Guides to software and technology that are just a little more drinkable alongside rambling opinion pieces.">
+  
+  <meta name="twitter:card" content="summary">
+  $if(title)$
+  <meta property="og:type" content="article" />
+  <meta name="twitter:title" content="$title$">
+  <meta property="og:title" content="$title$" />
+  $else$
+  <meta name="twitter:title" content="CodeStraw">
+  <meta property="og:title" content="CodeStraw" />
+  $endif$
+  <meta property="og:site_name" content="CodeStraw" />
+  
+  <meta name="twitter:description" content="Guides to software and technology that are just a little more drinkable alongside rambling opinion pieces.">
+  <meta property="og:description" content="Guides to software and technology that are just a little more drinkable alongside rambling opinion pieces." />
+  
+  $if(author)$
+  <meta name="twitter:creator" content="@Josh_TaylorUK">
+  $endif$
+  
+  <meta name="twitter:image" content="http://www.example.com/image.jpg">
+  <meta property="og:image" content="http://example.com/image.jpg" />
+  
+  <link rel="stylesheet" href="/css/layout.css">
 
-		<meta name="twitter:card" content="summary">
-		$if(title)$
-		<meta property="og:type" content="article" />
-		<meta name="twitter:title" content="$title$">
-		<meta property="og:title" content="$title$" />
-		$else$
-		<meta name="twitter:title" content="CodeStraw">
-		<meta property="og:title" content="CodeStraw" />
-		$endif$
-		<meta property="og:site_name" content="CodeStraw" />
-
-		<meta name="twitter:description" content="Guides to software and technology that are just a little more drinkable alongside rambling opinion pieces.">
-		<meta property="og:description" content="Guides to software and technology that are just a little more drinkable alongside rambling opinion pieces." />
-
-		$if(author)$
-		<meta name="twitter:creator" content="@Josh_TaylorUK">
-		$endif$
-
-		<meta name="twitter:image" content="http://www.example.com/image.jpg">
-		<meta property="og:image" content="http://example.com/image.jpg" />
-		
-		<link rel="stylesheet" href="/css/layout.css">
-
-  </head>
-	<body>
-		<nav>
-			<div class="container">
-				<figure class="logo">
-				<img src="/img/logo.svg" alt="Code Straw">
-				</figure>
-	 			<ul class="links">
-					<li><a href="/">Home</a></li>
-					<li><a href="/about/">About</a></li>
-				</ul>
-		
-			</div>
-		</nav>
-		<div class="container">
-			$body$	
-		</div>
-  </body>
+</head>
+<body>
+  <nav>
+    <div class="container">
+      <ul class="links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div class="container">
+  	$body$	
+  </div>
+</body>
 </html>

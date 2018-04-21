@@ -100,8 +100,6 @@ exists at all? Could it not just be something planted in me as a child? Perhaps
 all people that are seen as evil were just misguided in intricate ways. Perhaps
 it isn't something worth thinking about too much.
 
-### Notes
-		
 [^1]: I find the use of the word "wicked" in this definition quite funny, since
 the top Google definition for wicked is "evil or morally wrong". I thought
 recursive definitions were only something that existed in code. The second

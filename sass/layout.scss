@@ -17,11 +17,11 @@
 $base03:    rgb(0, 43, 54);
 $base02:    rgb(7, 54, 66);
 $base01:    rgb(88, 110, 117);
-$base00:    rgb(101, 123, 131);
+$base00:    rgb(0, 0, 0);
 $base0:     rgb(131, 148, 150);
 $base1:     rgb(147, 161, 161);
 $base2:     rgb(238, 232, 213);
-$base3:     rgb(253, 246, 227);
+$base3:     rgb(255, 255, 255);
 $yellow:    rgb(181, 137, 0);
 $orange:    rgb(203, 75, 22);
 $red:       rgb(220, 50, 47);
@@ -48,11 +48,24 @@ html {
 		"Helvetica Neue", Arial, sans-serif,
 		// Emoji fonts
 		"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	font-size: 1rem;
 	
 	@include for-device(phone-only) {
-		font-size: 0.8rem;
+		font-size: 1rem;
 	}
+
+	@include for-device(tablet-portrait-up) {
+		font-size: 1rem;
+	}
+
+	@include for-device(desktop-up) {
+		font-size: 1.2rem;
+	}
+
+	@include for-device(big-desktop-up) {
+		font-size: 1.4rem;
+	}
+
+
 }
 
 // base styles
@@ -79,13 +92,6 @@ a {
 	}
 }
 
-h1 {
-	margin: 0;
-	padding: 5rem 0 0.5rem 0;
-
-	font-size: 3rem;
-	font-weight: 200;
-}
 
 .container {
 	margin: 0 auto;
@@ -97,61 +103,109 @@ h1 {
 	@include for-device(tablet-portrait-up) {
 		max-width: 40rem;
 	}
-
-	@include for-device(tablet-landscape-up) {
-		max-width: 40rem;
-	}
-
-	@include for-device(desktop-up) {
-		max-width: 50rem;
-	}
-
-	@include for-device(big-desktop-up) {
-		max-width: 50rem;
-	}
 }
 
 nav {
-	background-color: $base2;
-	border-top: 0.2rem solid $base1;
+	$nav-height: 2.2rem;
+
+	max-height: $nav-height;
 
 	div.container {
 		display: flex;
+		max-height: $nav-height;
 	}
 
-
-	figure {
-		margin-left: 0.4rem;
-		margin-right: 0;
-
-		img {
-			max-height: 2.0rem;
-		}
-
-	}
-	
 	ul.links {
 		display: flex;
-		justify-content: flex-end;	
 		width: 100%;
+		padding-left: 0;
 		
 		list-style: none;
 		margin: 0;
 
 		li {
-			padding: 0.8rem; 
-			font-size: 1.7rem;
+			padding: 0.5rem; 
+			font-size: 0.8rem;
 			font-weight: 600;
-
-			border-left: 0.2rem solid $base3;
 
 			&:last-of-type {
 				@include for-device(tablet-portrait-up) {
-					border-right: 0.2rem solid $base3;
 				}
 			}
 		}
 	}
 }
 
+div.block-container {
+	display: grid;
 
+	grid-template-rows: auto auto;
+	grid-template-columns: auto auto auto auto;
+
+	div.block-lg {
+		grid-column-start: span 2;
+		grid-row-start: span 2;
+		
+	}
+
+	div.block-md {
+		grid-column-start: span 2;
+		grid-row-start: span 1;
+	}
+
+	div.block-sm {
+		grid-column-start: span 1;
+		grid-row-start: span 1;
+	}
+}
+
+article {
+	@include for-device(phone-only) {
+		margin: 1.1rem;
+	}
+
+	h1 {
+		margin: 0;
+		padding: 3.5rem 0 3rem 0;
+	
+		font-size: 2.5rem;
+		font-weight: 400;
+		
+		text-align: center;
+	}
+
+
+	header {
+		p {
+			text-align: center;
+			font-weight: 600;
+			margin-bottom: 0;
+		}
+
+		img.avatar {
+			border-radius: 50%;
+			max-height: 3rem;
+		}
+	}
+
+	hr {
+		border-style: solid;
+		border-width: 0.5px;
+		border-color: $base1
+	}
+
+	section {
+
+		p {
+			line-height: 1.5rem;
+		}
+		a.footnoteRef {
+			font-weight: 800;
+			margin-left: 0.2rem;
+		}
+
+		div.footnotes {
+			font-size: 0.9rem;	
+		}
+	}
+}

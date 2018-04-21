@@ -6,7 +6,7 @@ author: Josh Taylor
 
 Last week I went to a kebab shop, the week before I went to a kebab shop, the
 week before that I'm not sure; don't usually keep track that much. Not sure if
-I'll go to one this week. Depends how drunk I get---it usually requires a fair
+I'll go to one this week. Depends how drunk I get--t usually requires a fair
 amount of beer/rum/wine/ in order to convince myself that it's a good idea. The
 guy at Haworth pizza just down the road seems to recognise me by face value
 these days. He always seems in such a neutral mood, only caring about orders
@@ -29,14 +29,14 @@ Have come to accept that with every visit I am dying a little faster, and my
 body reminds me of this by making me feel like absolute garbage the next day.
 It doesn't matter what's ordered it always has the same bloated, destroying
 effect. Why go? Not really even that sure myself. It always seems to become a
-good idea at some point---then about half way through eating, when I have
+good idea at some point--hen about half way through eating, when I have
 thought a little more, I regain the ability to see the error in my ways. I
 wonder if the staff even consider eating their own food, does Mr Haworth even
 like Doner kebabs?
 
 Deep insanity is a much more common theme amongst the customers than any other
 type of place I've been to. Once I was in there and a guy could barely speak
-his order due to intense shivering---wasn't really cold that night so I expect
+his order due to intense shivering--asn't really cold that night so I expect
 he was on some kind of local street brew of chemicals. Didn't look at all fun
 for him, but all of his clothes were from Abercrombie and Fitch so I can't
 imagine he had any problems in real life. Another customer completely hid his
