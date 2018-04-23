@@ -1,3 +1,3 @@
-# Code Straw
+# Josh Taylor's Blog
 
-Github pages migration of [codestraw.com](codestraw.com)
+Github pages blog for [joshtaylor.blog](joshtaylor.blog), previously [codestraw.com](codestraw.com).

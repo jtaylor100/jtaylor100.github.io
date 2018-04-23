@@ -9,7 +9,7 @@ wasn't something I ever considered to be debatable; good was good, evil was
 evil. Watching enough Tarantino films brought the possibility that everybody
 was evil in some way, but they never caused me to ask "what makes them evil?"
 
-### Knowing you're doing something wrong
+## Knowing you're doing wrong
 
 Let's assume that good or evil is defined by your actions, ignore good/evil
 aspects of thought for the time being. The line that must be drawn first is one
@@ -26,7 +26,7 @@ concrete example of evil? Not really, the carrier of the stick may have no
 intent of burning the campsite. The intent of the carrier is what separates the
 evil action from the act of ignorance.
 
-### Causing harm without having an end
+## Causing harm without having an end
 
 There are many examples in history however where causing pain with intent has
 been viewed as "good" by many people. Wars, genocide, prisoner torture: all
@@ -49,7 +49,7 @@ others. An act of rape could be another example, of a man not trying to satisfy
 his personal urges, but enjoys more the shame he is inflicting on his victim.
 This I find is the true essence of evil.
 
-### Looking to Google
+## Looking to Google
 
 The top definition for evil on Google is 'profoundly immoral and wicked'[^1].
 This suggests that evil is a very flexible term, that there is no true concrete
@@ -84,7 +84,7 @@ that they don't care about homelessness. Are they just simply ignorant of how
 much benefit they could give? Am I ignorant to the importance of their
 projects?
 
-### Personal Conflict
+## Personal Conflict
 
 So are evil people sadistic, immoral or just ignorant? Or could they perhaps be
 a combination of the three? Saying that people are only evil if they are

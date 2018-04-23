@@ -1,4 +1,4 @@
 * Home page
-* About Page
 * RSS
 * Favicon
+* Email for each RSS Update 
