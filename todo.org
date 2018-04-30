@@ -1,4 +1,4 @@
-* Home page
-* RSS
-* Favicon
-* Email for each RSS Update 
+* TODO Procedural Home page
+* TODO RSS
+* TODO Favicon
+* TODO Email for each RSS Update 
