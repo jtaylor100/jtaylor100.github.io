@@ -27,6 +27,22 @@ $blue:      rgb(38, 139, 210);
 $cyan:      rgb(42, 161, 152);
 $green:     rgb(133, 153, 0);
 
+%display-header {
+	margin: 0;
+	padding: 3.5rem 0 3rem 0;
+
+	font-size: 2.5rem;
+	font-weight: 400;
+	
+	text-align: center;
+}
+
+@mixin mobile-border {
+	@include for-device(phone-only) {
+		margin: 1.1rem;
+	}
+}
+
 html {
     background-color: $base3;
     color: $base00;
@@ -58,8 +74,6 @@ html {
 	@include for-device(big-desktop-up) {
 		font-size: 1.4rem;
 	}
-
-
 }
 
 // base styles
@@ -69,10 +83,11 @@ body {
 
 a {
 	color: $blue;
+	text-decoration: underline;
+    text-decoration-color: $base2;
 
 	&:hover {
 		color: $cyan;
-		text-decoration: underline;
 	}
 
 	&:visited {
@@ -97,77 +112,48 @@ a {
 	}
 }
 
-nav {
-	$nav-height: 2.2rem;
+div.home {
+	@include mobile-border;
 
-	max-height: $nav-height;
-
-	div.container {
-		display: flex;
-		max-height: $nav-height;
+	h1 {
+		@extend %display-header;
 	}
 
-	ul.links {
-		display: flex;
-		width: 100%;
-		padding-left: 0;
-		
-		list-style: none;
-		margin: 0;
+	h2 {
+		text-align:center;
+	}
 
-		li {
-			padding: 0.5rem; 
-			font-size: 0.8rem;
-			font-weight: 600;
+	table {
+		width:100%;
 
-			&:last-of-type {
-				@include for-device(tablet-portrait-up) {
-				}
+        @include  for-device(tablet-portrait-up) {
+            width: 60%;
+            margin:0 auto
+        }
+
+		tr {
+			margin-bottom:.2rem;
+
+			td:first-of-type {
+				text-align:left;
 			}
+            
+            td {
+                text-align:right;
+                font-size: 1rem;
+            }
 		}
 	}
 }
 
-div.block-container {
-	display: grid;
-
-	grid-template-rows: auto auto;
-	grid-template-columns: auto auto auto auto;
-
-	div.block-lg {
-		grid-column-start: span 2;
-		grid-row-start: span 2;
-		
-	}
-
-	div.block-md {
-		grid-column-start: span 2;
-		grid-row-start: span 1;
-	}
-
-	div.block-sm {
-		grid-column-start: span 1;
-		grid-row-start: span 1;
-	}
-}
-
 article {
-	@include for-device(phone-only) {
-		margin: 1.1rem;
-	}
-
-	h1 {
-		margin: 0;
-		padding: 3.5rem 0 3rem 0;
-	
-		font-size: 2.5rem;
-		font-weight: 400;
-		
-		text-align: center;
-	}
-
+	@include mobile-border;
 
 	header {
+		h1 {
+			@extend %display-header;
+		}
+
 		p {
 			text-align: center;
 			font-weight: 600;
@@ -187,9 +173,11 @@ article {
 	}
 
 	section {
+		font-family: "Georgia", serif;
         margin: 1.5rem 0 1.5rem 0;
         h2 {
 			font-size: 1rem;
+            margin-bottom: 0.3rem;
         }
 
 		& > p {
@@ -198,7 +186,6 @@ article {
             text-indent: 3rem;
             text-align:justify;
             hyphens:auto;
-			font-family: "Georgia", serif;
 		}
 
         h2+p,p:first-of-type {
@@ -210,14 +197,30 @@ article {
         }
 
 
-		a.footnoteRef {
-			font-weight: 800;
-			margin-left: 0.2rem;
-            margin-top: -0.2rem;
+		a.footnoteRef sup {
+            &::before{
+                content: "[";
+            }
+
+            &::after {
+                content: "]";
+            }
+            font-size: 1rem;
+            vertical-align:bottom;
 		}
+
+        blockquote {
+            margin-left: 3rem;
+        }
 
 		div.footnotes {
 			font-size: 0.9rem;	
 		}
 	}
+
+    footer {
+        p.legal {
+            font-size: 0.8rem;
+        }
+    }
 }

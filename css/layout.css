@@ -1,4 +1,11 @@
 @charset "UTF-8";
+div.home h1, article header h1 {
+  margin: 0;
+  padding: 3.5rem 0 3rem 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  text-align: center; }
+
 html {
   background-color: white;
   color: black;
@@ -20,10 +27,11 @@ body {
   margin: 0; }
 
 a {
-  color: #268bd2; }
+  color: #268bd2;
+  text-decoration: underline;
+  text-decoration-color: #eee8d5; }
   a:hover {
-    color: #2aa198;
-    text-decoration: underline; }
+    color: #2aa198; }
   a:visited {
     color: #2aa198; }
   a:active {
@@ -38,45 +46,28 @@ a {
     .container {
       max-width: 40rem; } }
 
-nav {
-  max-height: 2.2rem; }
-  nav div.container {
-    display: flex;
-    max-height: 2.2rem; }
-  nav ul.links {
-    display: flex;
-    width: 100%;
-    padding-left: 0;
-    list-style: none;
-    margin: 0; }
-    nav ul.links li {
-      padding: 0.5rem;
-      font-size: 0.8rem;
-      font-weight: 600; }
-
-div.block-container {
-  display: grid;
-  grid-template-rows: auto auto;
-  grid-template-columns: auto auto auto auto; }
-  div.block-container div.block-lg {
-    grid-column-start: span 2;
-    grid-row-start: span 2; }
-  div.block-container div.block-md {
-    grid-column-start: span 2;
-    grid-row-start: span 1; }
-  div.block-container div.block-sm {
-    grid-column-start: span 1;
-    grid-row-start: span 1; }
+@media (max-width: 599px) {
+  div.home {
+    margin: 1.1rem; } }
+div.home h2 {
+  text-align: center; }
+div.home table {
+  width: 100%; }
+  @media (min-width: 600px) {
+    div.home table {
+      width: 60%;
+      margin: 0 auto; } }
+  div.home table tr {
+    margin-bottom: .2rem; }
+    div.home table tr td:first-of-type {
+      text-align: left; }
+    div.home table tr td {
+      text-align: right;
+      font-size: 1rem; }
 
 @media (max-width: 599px) {
   article {
     margin: 1.1rem; } }
-article h1 {
-  margin: 0;
-  padding: 3.5rem 0 3rem 0;
-  font-size: 2.5rem;
-  font-weight: 400;
-  text-align: center; }
 article header p {
   text-align: center;
   font-weight: 600;
@@ -89,25 +80,33 @@ article hr {
   border-width: 0.5px;
   border-color: #fff; }
 article section {
+  font-family: "Georgia", serif;
   margin: 1.5rem 0 1.5rem 0; }
   article section h2 {
-    font-size: 1rem; }
+    font-size: 1rem;
+    margin-bottom: 0.3rem; }
   article section > p {
     line-height: 1.3rem;
     margin: 0;
     text-indent: 3rem;
     text-align: justify;
-    hyphens: auto;
-    font-family: "Georgia", serif; }
+    hyphens: auto; }
   article section h2 + p, article section p:first-of-type {
     text-indent: 0; }
   article section > p:last-of-type::after {
     content: " ■"; }
-  article section a.footnoteRef {
-    font-weight: 800;
-    margin-left: 0.2rem;
-    margin-top: -0.2rem; }
+  article section a.footnoteRef sup {
+    font-size: 1rem;
+    vertical-align: bottom; }
+    article section a.footnoteRef sup::before {
+      content: "["; }
+    article section a.footnoteRef sup::after {
+      content: "]"; }
+  article section blockquote {
+    margin-left: 3rem; }
   article section div.footnotes {
     font-size: 0.9rem; }
+article footer p.legal {
+  font-size: 0.8rem; }
 
 /*# sourceMappingURL=layout.css.map */
