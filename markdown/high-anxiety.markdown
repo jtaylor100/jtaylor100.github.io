@@ -6,7 +6,7 @@ author: Josh Taylor
 
 It has become apparent to me recently that I have a real problem with anxiety.
 The feeling hits me at the most random and inconvenient places but somehow
-afterwards I always forget how it feels--that is until I experience it again.
+afterwards I always forget how it feels—that is until I experience it again.
 It's not impossible to live with but it is most certainly uncomfortable,
 mostly causing my stomach to turn and making everything sweet taste deadly.
 Some days it's like a feeling that underlies all of what I do during that day:
@@ -15,7 +15,7 @@ the wrong thing? If I can't choose the right thing then how can I occupy myself
 until the anxiety goes away? What if it never goes away? 
 
 Even if they don't say it, my friends know if I'm on edge. I'm noticeably
-slower since my mind is trying to work out everything all at once--all
+slower since my mind is trying to work out everything all at once—all
 my movements feel rigid, forced and requiring a large amount of effort to carry
 out. Sentences are hard to construct and code is even harder to fathom, harder
 still is keeping my eyes still and pointing in the same direction for more than

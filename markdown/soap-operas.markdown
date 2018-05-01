@@ -33,7 +33,7 @@ out the door, labelled "OK" as soon as possible. Nothing would be fixed.
 Yet as I grew up I needed to talk to more people Every bad feeling became a
 weight on everyday life. I could talk to friends, but it always felt like I was
 too much of a burden. They could tolerate it for a while but it was easy to see
-that the constant drama from Josh quickly exhausted them--so after a while it
+that the constant drama from Josh quickly exhausted them—so after a while it
 felt sensible to find somebody professional who I could regularly talk to.
 Reading philosophy also changed my opinion on therapy. When  Epicurus' wrote
 about his Utopian commune he envisioned everybody working together and helping

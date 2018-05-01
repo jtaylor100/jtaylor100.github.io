@@ -90,7 +90,8 @@ article section {
     margin: 0;
     text-indent: 3rem;
     text-align: justify;
-    hyphens: auto; }
+    hyphens: auto;
+    -webkit-hyphens: auto; }
   article section h2 + p, article section p:first-of-type {
     text-indent: 0; }
   article section > p:last-of-type::after {
