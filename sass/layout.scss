@@ -149,6 +149,7 @@ div.home {
 article {
 	@include mobile-border;
 
+
 	header {
 		h1 {
 			@extend %display-header;
@@ -185,8 +186,6 @@ article {
             margin:0;
             text-indent: 3rem;
             text-align:justify;
-            hyphens:auto;
-			-webkit-hyphens:auto;
 		}
 
         h2+p,p:first-of-type {
@@ -200,7 +199,7 @@ article {
 
 		a.footnoteRef sup {
             &::before{
-                content: "[";
+                content: " [";
             }
 
             &::after {
@@ -217,6 +216,13 @@ article {
 		div.footnotes {
 			font-size: 0.9rem;	
 		}
+
+    	&.hyphenate {
+        	hyphens:auto;
+    		-webkit-hyphens:auto;
+    		-ms-hyphens: auto;
+    	}
+
 	}
 
     footer {

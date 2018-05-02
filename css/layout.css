@@ -89,9 +89,7 @@ article section {
     line-height: 1.3rem;
     margin: 0;
     text-indent: 3rem;
-    text-align: justify;
-    hyphens: auto;
-    -webkit-hyphens: auto; }
+    text-align: justify; }
   article section h2 + p, article section p:first-of-type {
     text-indent: 0; }
   article section > p:last-of-type::after {
@@ -100,13 +98,17 @@ article section {
     font-size: 1rem;
     vertical-align: bottom; }
     article section a.footnoteRef sup::before {
-      content: "["; }
+      content: " ["; }
     article section a.footnoteRef sup::after {
       content: "]"; }
   article section blockquote {
     margin-left: 3rem; }
   article section div.footnotes {
     font-size: 0.9rem; }
+  article section.hyphenate {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto; }
 article footer p.legal {
   font-size: 0.8rem; }
 
