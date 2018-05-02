@@ -3,8 +3,13 @@ div.home h1, article header h1 {
   margin: 0;
   padding: 3.5rem 0 3rem 0;
   font-size: 2.5rem;
-  font-weight: 400;
+  font-weight: 100;
   text-align: center; }
+
+div.home hr, article hr {
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #fff; }
 
 html {
   background-color: white;
@@ -50,7 +55,9 @@ a {
   div.home {
     margin: 1.1rem; } }
 div.home h2 {
-  text-align: center; }
+  margin-top: 0rem;
+  text-align: center;
+  font-weight: 400; }
 div.home table {
   width: 100%; }
   @media (min-width: 600px) {
@@ -75,10 +82,6 @@ article header p {
 article header img.avatar {
   border-radius: 50%;
   max-height: 3rem; }
-article hr {
-  border-style: solid;
-  border-width: 0.5px;
-  border-color: #fff; }
 article section {
   font-family: "Georgia", serif;
   margin: 1.5rem 0 1.5rem 0; }

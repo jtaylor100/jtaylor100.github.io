@@ -32,9 +32,15 @@ $green:     rgb(133, 153, 0);
 	padding: 3.5rem 0 3rem 0;
 
 	font-size: 2.5rem;
-	font-weight: 400;
+	font-weight: 100;
 	
 	text-align: center;
+}
+
+%invisible-hr {
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: #fff; 
 }
 
 @mixin mobile-border {
@@ -120,7 +126,13 @@ div.home {
 	}
 
 	h2 {
+		margin-top: 0rem;
 		text-align:center;
+		font-weight:400;
+	}
+
+	hr {
+		@extend %invisible-hr;
 	}
 
 	table {
@@ -148,7 +160,10 @@ div.home {
 
 article {
 	@include mobile-border;
-
+	
+	hr {
+		@extend %invisible-hr;
+	}
 
 	header {
 		h1 {
@@ -167,11 +182,6 @@ article {
 		}
 	}
 
-	hr {
-		border-style: solid;
-		border-width: 0.5px;
-		border-color: #fff; 
-	}
 
 	section {
 		font-family: "Georgia", serif;
