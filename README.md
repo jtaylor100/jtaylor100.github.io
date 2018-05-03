@@ -7,7 +7,7 @@ Includes a makefile for statically generaing the pages from templates and
 markup with pandoc and using sass for styling.
 
 All markdown files within `markdown/` have been written in the [pandoc markdown
-style][1].
+style][].
 
 [pandoc markdown style]: https://pandoc.org/MANUAL.html
 
