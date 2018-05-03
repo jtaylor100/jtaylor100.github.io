@@ -1,7 +1,7 @@
 # Josh Taylor's Blog
 
-Github pages blog for <joshtaylor.blog>, previously
-<codestraw.com>.
+Github pages blog for http://joshtaylor.blog, previously
+http://codestraw.com.
 
 Includes a makefile for statically generaing the pages from templates and
 markup with pandoc and using sass for styling.
