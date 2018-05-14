@@ -4,7 +4,7 @@ author: Josh Taylor
 date: 2018-05-02
 ---
 
-> "Every Failure is a Lesson, a chance to grow."
+> Every Failure is a Lesson, a chance to grow.
 
 This is what I tell myself whenever things don't work out. I have to do it
 firmly, with conviction, almost shout it at myself. The idea behind it is
@@ -14,7 +14,7 @@ that unconscious strength to deal with anything. I can't feel this strength. I
 never have done. Nearly every victory I've had has been hollow and every
 failure crippling—extending to every action, test and relationship.
 
-"Woe me", right? 
+"Woe is me", right? 
 
 Joking aside it was a big shock when this realisation came to me. Reading
 [therapy profiles][] of cases with deep inadequacy issues, I felt a growing
