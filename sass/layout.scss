@@ -123,7 +123,20 @@ div.home {
 
 	h1 {
 		@extend %display-header;
+        padding:0;
 	}
+
+    .header {
+        padding: 2rem 0;
+
+        h2 {
+            margin-bottom: 0;
+            text-transform: uppercase;
+            font-size: 1rem;
+            font-weight: 700;
+            color: $base1;
+        }
+    }
 
 	h2 {
 		margin-top: 0rem;
@@ -184,7 +197,6 @@ article {
 
 
 	section {
-		font-family: "Georgia", serif;
         margin: 1.5rem 0 1.5rem 0;
         h2 {
 			font-size: 1rem;
