@@ -89,8 +89,8 @@ article section {
     font-size: 1rem;
     margin-bottom: 0.3rem; }
   article section > p {
-    line-height: 1.4rem;
-    margin: 0.8rem 0;
+    line-height: 1.6rem;
+    margin: 0 0 1.4rem 0;
     text-align: justify; }
   article section h2 + p, article section p:first-of-type {
     text-indent: 0; }
