@@ -1,4 +1,5 @@
 * TODO Procedural Home page
 * TODO RSS
-* TODO Favicon
-* TODO Email for each RSS Update 
+* TODO Email for each RSS Update
+* TODO External link markers
+
