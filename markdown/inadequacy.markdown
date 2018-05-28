@@ -33,7 +33,7 @@ all this before][] without even realising it.
 When looking forward to going out into the post-education real world, this will
 affect me professionally as well as personally. Every person who can work out
 that 'self-assured, slightly over-estimating' personality, which company
-recruiters love these days, will have an edge on me[^1]. Not to sound like an
+recruiters love these days, will have an edge on me [^1]. Not to sound like an
 anti-resume, but I've already demonstrated in my previous employments an
 ability to inflate estimations, doubt my judgement and resent co-workers for
 not giving me guidance which I didn't ask for. I can trace all of these traits

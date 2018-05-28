@@ -109,7 +109,7 @@ article section {
     font-size: 1rem;
     vertical-align: bottom; }
     article section a.footnoteRef sup::before {
-      content: " ["; }
+      content: "["; }
     article section a.footnoteRef sup::after {
       content: "]"; }
   article section blockquote {

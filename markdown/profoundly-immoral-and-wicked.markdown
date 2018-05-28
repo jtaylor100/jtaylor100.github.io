@@ -51,7 +51,7 @@ This I find is the true essence of evil.
 
 ## Looking to Google
 
-The top definition for evil on Google is 'profoundly immoral and wicked'[^1].
+The top definition for evil on Google is 'profoundly immoral and wicked' [^1].
 This suggests that evil is a very flexible term, that there is no true concrete
 example of evil, since morality is itself flexible from person to person. A
 democratic approach could be taken to define something as evil. If the majority
@@ -70,7 +70,7 @@ Cegłowski](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm),
 which is transcribed online. In the latter part of his talk he looks to silicon
 valley, where money is thrown from venture to venture in an endless competition
 for prestige. All the meanwhile the homeless population of San Francisco is
-rising every year[^2]. While millions and potentially billions of dollars are
+rising every year [^2]. While millions and potentially billions of dollars are
 thrown on grand projects in the area such as space programs, human immortality
 and smartphone apps; people are struggling to gather ten dollars while living
 on the streets. In this modern world these projects may never be defined as
