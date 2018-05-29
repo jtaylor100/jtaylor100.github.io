@@ -3,4 +3,4 @@
 * TODO Email for each RSS Update
 * TODO External link markers
 * TODO Json-ld metadata blocks
-
+* TODO Disclaimer about 'personal' posts
