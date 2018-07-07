@@ -1,10 +1,9 @@
 @charset "UTF-8";
 div.home h1, article header h1 {
   margin: 0;
-  padding: 3.5rem 0 3rem 0;
+  padding: 0;
   font-size: 2.5rem;
-  font-weight: 100;
-  text-align: center; }
+  font-weight: 300; }
 
 div.home hr, article hr {
   border-style: solid;
@@ -15,15 +14,15 @@ html {
   background-color: white;
   color: black;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif; }
-  @media (max-width: 599px) {
+  @media (max-width: 689px) {
     html {
-      font-size: 0.9rem; } }
-  @media (min-width: 600px) {
+      font-size: 1.1rem; } }
+  @media (min-width: 690px) {
     html {
       font-size: 1rem; } }
   @media (min-width: 1200px) {
     html {
-      font-size: 1.2rem; } }
+      font-size: 1.1rem; } }
   @media (min-width: 1800px) {
     html {
       font-size: 1.4rem; } }
@@ -44,18 +43,21 @@ a {
 
 .container {
   margin: 0 auto; }
-  @media (max-width: 599px) {
+  @media (max-width: 689px) {
     .container {
       max-width: 100%; } }
-  @media (min-width: 600px) {
+  @media (min-width: 690px) {
     .container {
       max-width: 40rem; } }
 
-@media (max-width: 599px) {
+@media (max-width: 689px) {
   div.home {
     margin: 1.1rem; } }
 div.home h1 {
   padding: 0; }
+  @media (min-width: 690px) {
+    div.home h1 {
+      text-align: center; } }
 div.home .header {
   padding: 2rem 0; }
   div.home .header h2 {
@@ -64,34 +66,33 @@ div.home .header {
     font-size: 1rem;
     font-weight: 700;
     color: #93a1a1; }
+    @media (min-width: 690px) {
+      div.home .header h2 {
+        text-align: center; } }
 div.home h2 {
   margin-top: 0rem;
-  text-align: center;
   font-weight: 400; }
-div.home table {
-  width: 100%; }
-  @media (min-width: 600px) {
-    div.home table {
-      width: 60%;
-      margin: 0 auto; } }
-  div.home table tr {
-    margin-bottom: .2rem; }
-    div.home table tr td:first-of-type {
-      text-align: left; }
-    div.home table tr td {
-      text-align: right;
-      font-size: 1rem; }
+  @media (min-width: 690px) {
+    div.home h2 {
+      text-align: center; } }
+div.home div.post {
+  margin: 1rem 0; }
+  @media (min-width: 690px) {
+    div.home div.post {
+      margin: 0 auto;
+      max-width: 23.3rem;
+      display: flex;
+      justify-content: space-between; } }
 
-@media (max-width: 599px) {
+@media (max-width: 689px) {
   article {
     margin: 1.1rem; } }
 article header p {
-  text-align: center;
-  font-weight: 600;
-  margin-bottom: 0; }
-article header img.avatar {
-  border-radius: 50%;
-  max-height: 3rem; }
+  margin: 3.5rem 0 0 0;
+  font-weight: 600; }
+article header time {
+  display: block;
+  margin: 0.4rem 0 3.5rem 0; }
 article section {
   margin: 1.5rem 0 1.5rem 0; }
   article section h2 {
@@ -99,8 +100,10 @@ article section {
     margin-bottom: 0.3rem; }
   article section > p {
     line-height: 1.6rem;
-    margin: 0 0 1.4rem 0;
-    text-align: justify; }
+    margin: 0 0 1.4rem 0; }
+    @media (min-width: 690px) {
+      article section > p {
+        text-align: justify; } }
   article section h2 + p, article section p:first-of-type {
     text-indent: 0; }
   article section > p:last-of-type::after {
@@ -122,6 +125,9 @@ article section {
     hyphens: auto;
     -webkit-hyphens: auto;
     -ms-hyphens: auto; }
+@media (min-width: 690px) {
+  article footer {
+    text-align: center; } }
 article footer p.legal {
   font-size: 0.8rem; }
 

@@ -1,16 +1,16 @@
 // mixin for device breakpoints
 @mixin for-device($device) {
-	@if $device == phone-only {
-		@media (max-width: 599px) { @content; }
-	} @else if $device == tablet-portrait-up {
-		@media (min-width: 600px) { @content; }
-	} @else if $device == tablet-landscape-up {
-    	@media (min-width: 900px) { @content; }
-  	} @else if $device == desktop-up {
-    	@media (min-width: 1200px) { @content; }
-  	} @else if $device == big-desktop-up {
-    	@media (min-width: 1800px) { @content; }
-  	}
+  @if $device == phone-only {
+    @media (max-width: 689px) { @content; }
+  } @else if $device == tablet-portrait-up {
+    @media (min-width: 690px) { @content; }
+  } @else if $device == tablet-landscape-up {
+    @media (min-width: 900px) { @content; }
+  } @else if $device == desktop-up {
+    @media (min-width: 1200px) { @content; }
+  } @else if $device == big-desktop-up {
+    @media (min-width: 1800px) { @content; }
+  }
 }
 
 // solarized colour palette 
@@ -28,230 +28,230 @@ $cyan:      rgb(42, 161, 152);
 $green:     rgb(133, 153, 0);
 
 %display-header {
-	margin: 0;
-	padding: 3.5rem 0 3rem 0;
+  margin: 0;
+  padding:0;
 
-	font-size: 2.5rem;
-	font-weight: 100;
-	
-	text-align: center;
+  font-size: 2.5rem;
+  font-weight: 300;
 }
 
 %invisible-hr {
-	border-style: solid;
-	border-width: 0.5px;
-	border-color: #fff; 
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #fff; 
 }
 
 @mixin mobile-border {
-	@include for-device(phone-only) {
-		margin: 1.1rem;
-	}
+  @include for-device(phone-only) {
+    margin: 1.1rem;
+  }
+}
+
+@mixin center-if-not-mobile {
+  @include for-device(tablet-portrait-up) {
+    text-align:center;
+  }
 }
 
 html {
     background-color: $base3;
     color: $base00;
 
-	font-family:
-		// Safari for OS X and iOS (San Francisco)
-		-apple-system,
-		// Chrome < 56 for OS X (San Francisco)
-		BlinkMacSystemFont,
-		// Windows
-		"Segoe UI",
-		// Android
-		"Roboto",
-		// Basic web fallback
-		"Helvetica Neue", Arial, sans-serif;
-	
-	@include for-device(phone-only) {
-		font-size: 0.9rem;
-	}
+  font-family:
+    // Safari for OS X and iOS (San Francisco)
+    -apple-system,
+    // Chrome < 56 for OS X (San Francisco)
+    BlinkMacSystemFont,
+    // Windows
+    "Segoe UI",
+    // Android
+    "Roboto",
+    // Basic web fallback
+    "Helvetica Neue", Arial, sans-serif;
+  
+  @include for-device(phone-only) {
+    font-size: 1.1rem;
+  }
 
-	@include for-device(tablet-portrait-up) {
-		font-size: 1rem;
-	}
+  @include for-device(tablet-portrait-up) {
+    font-size: 1rem;
+  }
 
-	@include for-device(desktop-up) {
-		font-size: 1.2rem;
-	}
+  @include for-device(desktop-up) {
+    font-size: 1.1rem;
+  }
 
-	@include for-device(big-desktop-up) {
-		font-size: 1.4rem;
-	}
+  @include for-device(big-desktop-up) {
+    font-size: 1.4rem;
+  }
 }
 
 // base styles
 body {
-	margin: 0;
+  margin: 0;
 }
 
 a {
-	color: $blue;
-	text-decoration: underline;
+  color: $blue;
+  text-decoration: underline;
     text-decoration-color: $base2;
 
-	&:hover {
-		color: $cyan;
-	}
+  &:hover {
+    color: $cyan;
+  }
 
-	&:visited {
-		color: $cyan;
-	}
+  &:visited {
+    color: $cyan;
+  }
 
-	&:active {
-		color: $magenta;
-	}
+  &:active {
+    color: $magenta;
+  }
 }
 
 
 .container {
-	margin: 0 auto;
+  margin: 0 auto;
 
-	@include for-device(phone-only) {
-		max-width: 100%;	
-	}
+  @include for-device(phone-only) {
+    max-width: 100%;  
+  }
 
-	@include for-device(tablet-portrait-up) {
-		max-width: 40rem;
-	}
+  @include for-device(tablet-portrait-up) {
+    max-width: 40rem;
+  }
 }
 
 div.home {
-	@include mobile-border;
+  @include mobile-border;
 
-	h1 {
-		@extend %display-header;
-        padding:0;
-	}
+  h1 {
+    @extend %display-header;
+    padding:0;
 
-    .header {
-        padding: 2rem 0;
+    @include center-if-not-mobile;
+  }
 
-        h2 {
-            margin-bottom: 0;
-            text-transform: uppercase;
-            font-size: 1rem;
-            font-weight: 700;
-            color: $base1;
-        }
+  .header {
+    padding: 2rem 0;
+    h2 {
+      margin-bottom: 0;
+      text-transform: uppercase;
+      font-size: 1rem;
+      font-weight: 700;
+      color: $base1;
+      @include center-if-not-mobile;
     }
+  }
 
-	h2 {
-		margin-top: 0rem;
-		text-align:center;
-		font-weight:400;
-	}
+  h2 {
+    margin-top: 0rem;
+    font-weight:400;
+    @include center-if-not-mobile;
+  }
 
-	hr {
-		@extend %invisible-hr;
-	}
+  hr {
+    @extend %invisible-hr;
+  }
 
-	table {
-		width:100%;
+  div.post {
+    margin: 1rem 0;
 
-        @include  for-device(tablet-portrait-up) {
-            width: 60%;
-            margin:0 auto
-        }
-
-		tr {
-			margin-bottom:.2rem;
-
-			td:first-of-type {
-				text-align:left;
-			}
-            
-            td {
-                text-align:right;
-                font-size: 1rem;
-            }
-		}
-	}
+    @include for-device(tablet-portrait-up) {
+      margin: 0 auto;
+      max-width: 23.3rem;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
 }
 
 article {
-	@include mobile-border;
-	
-	hr {
-		@extend %invisible-hr;
-	}
+  @include mobile-border;
+  
+  hr {
+    @extend %invisible-hr;
+  }
 
-	header {
-		h1 {
-			@extend %display-header;
-		}
-
-		p {
-			text-align: center;
-			font-weight: 600;
-			margin-bottom: 0;
-		}
-
-		img.avatar {
-			border-radius: 50%;
-			max-height: 3rem;
-		}
-	}
-
-
-	section {
-        margin: 1.5rem 0 1.5rem 0;
-        h2 {
-			font-size: 1rem;
-            margin-bottom: 0.3rem;
-        }
-
-		& > p {
-			line-height: 1.6rem;
-			margin:  0 0 1.4rem 0;
-
-            text-align:justify;
-		}
-
-        h2+p,p:first-of-type {
-            text-indent:0;
-        }
-
-        & > p:last-of-type::after {
-            content: " ■";
-        }
-
-
-		a.footnoteRef sup {
-            &::before{
-                content: "[";
-            }
-
-            &::after {
-                content: "]";
-            }
-            font-size: 1rem;
-            vertical-align:bottom;
-		}
-
-        blockquote {
-			margin-left: 0;
-			padding-left: 0.5rem;
-			border-left: 0.3rem $base1 solid;
-        }
-
-		div.footnotes {
-			font-size: 0.9rem;	
-		}
-
-    	&.hyphenate {
-        	hyphens:auto;
-    		-webkit-hyphens:auto;
-    		-ms-hyphens: auto;
-    	}
-
-	}
-
-    footer {
-        p.legal {
-            font-size: 0.8rem;
-        }
+  header {
+    h1 {
+      @extend %display-header;
     }
+
+    p {
+      margin: 3.5rem 0 0 0;
+      font-weight: 600;
+    }
+
+    time {
+      display:block;
+      margin: 0.4rem 0 3.5rem 0;
+
+    }
+
+  }
+
+
+  section {
+    margin: 1.5rem 0 1.5rem 0;
+    h2 {
+      font-size: 1rem;
+      margin-bottom: 0.3rem;
+    }
+
+    & > p {
+      line-height: 1.6rem;
+      margin:  0 0 1.4rem 0;
+
+      @include for-device(tablet-portrait-up) {
+        text-align:justify;
+      }
+    }
+
+    h2+p,p:first-of-type {
+      text-indent:0;
+    }
+
+    & > p:last-of-type::after {
+      content: " ■";
+    }
+
+
+    a.footnoteRef sup {
+      &::before{
+        content: "[";
+      }
+
+      &::after {
+        content: "]";
+      }
+      font-size: 1rem;
+      vertical-align:bottom;
+    }
+
+    blockquote {
+      margin-left: 0;
+      padding-left: 0.5rem;
+      border-left: 0.3rem $base1 solid;
+    }
+
+    div.footnotes {
+      font-size: 0.9rem;  
+    }
+
+    &.hyphenate {
+      hyphens:auto;
+      -webkit-hyphens:auto;
+      -ms-hyphens: auto;
+    }
+
+  }
+
+  footer {
+    @include center-if-not-mobile;
+
+    p.legal {
+      font-size: 0.8rem;
+    }
+  }
 }

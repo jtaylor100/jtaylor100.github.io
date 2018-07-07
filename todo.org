@@ -4,3 +4,4 @@
 * TODO External link markers
 * TODO Json-ld metadata blocks
 * TODO Disclaimer about 'personal' posts
+* TODO Add "Discuss this on reddit and hacker news" links
