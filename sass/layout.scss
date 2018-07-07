@@ -248,6 +248,7 @@ article {
   }
 
   footer {
+    margin: 3.5rem 0;
     @include center-if-not-mobile;
 
     p.legal {

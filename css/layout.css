@@ -125,10 +125,12 @@ article section {
     hyphens: auto;
     -webkit-hyphens: auto;
     -ms-hyphens: auto; }
-@media (min-width: 690px) {
-  article footer {
-    text-align: center; } }
-article footer p.legal {
-  font-size: 0.8rem; }
+article footer {
+  margin: 3.5rem 0; }
+  @media (min-width: 690px) {
+    article footer {
+      text-align: center; } }
+  article footer p.legal {
+    font-size: 0.8rem; }
 
 /*# sourceMappingURL=layout.css.map */
