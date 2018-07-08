@@ -13,11 +13,11 @@
   }
 }
 
-// solarized colour palette 
-$base00:    rgb(0, 0, 0);
+// colour palette 
+$base00:    rgb(178, 178, 178);
 $base1:     rgb(147, 161, 161);
 $base2:     rgb(238, 232, 213);
-$base3:     rgb(255, 255, 255);
+$base3:     rgb(0, 0, 0);
 $yellow:    rgb(181, 137, 0);
 $orange:    rgb(203, 75, 22);
 $red:       rgb(220, 50, 47);
@@ -38,7 +38,7 @@ $green:     rgb(133, 153, 0);
 %invisible-hr {
   border-style: solid;
   border-width: 0.5px;
-  border-color: #fff; 
+  border-color: $base3; 
 }
 
 @mixin mobile-border {
@@ -94,7 +94,7 @@ body {
 a {
   color: $blue;
   text-decoration: underline;
-    text-decoration-color: $base2;
+    text-decoration-color: $base1;
 
   &:hover {
     color: $cyan;
