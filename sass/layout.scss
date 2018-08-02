@@ -181,6 +181,7 @@ article {
 
     h1 {
       @extend %display-header;
+      font-weight: 500;
     }
 
     p {
