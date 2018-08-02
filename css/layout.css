@@ -9,11 +9,11 @@ article header h1, div.home h1 {
 article hr, div.home hr {
   border-style: solid;
   border-width: 0.5px;
-  border-color: black;
+  border-color: #E0E0E0;
 }
 
 html {
-  background-color: black;
+  background-color: #202020;
   color: #b2b2b2;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
 }
@@ -45,7 +45,7 @@ body {
 a {
   color: #268bd2;
   text-decoration: underline;
-  text-decoration-color: #93a1a1;
+  text-decoration-color: #3D3D3D;
 }
 a:hover {
   color: #2aa198;
@@ -125,6 +125,9 @@ div.home div.post {
     margin: 1.1rem;
   }
 }
+article header {
+  color: #E0E0E0;
+}
 article header p {
   margin: 3.5rem 0 0 0;
   font-weight: 600;
@@ -140,6 +143,7 @@ article section h2 {
   margin-top: 2.2rem;
   font-size: 1rem;
   margin-bottom: 0.3rem;
+  color: #E0E0E0;
 }
 article section > p {
   line-height: 1.6rem;

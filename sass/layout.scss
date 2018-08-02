@@ -14,18 +14,21 @@
 }
 
 // colour palette 
-$base00:    rgb(178, 178, 178);
-$base1:     rgb(147, 161, 161);
-$base2:     rgb(238, 232, 213);
-$base3:     rgb(0, 0, 0);
-$yellow:    rgb(181, 137, 0);
-$orange:    rgb(203, 75, 22);
-$red:       rgb(220, 50, 47);
-$magenta:   rgb(211, 54, 130);
-$violet:    rgb(108, 113, 196);
-$blue:      rgb(38, 139, 210);
-$cyan:      rgb(42, 161, 152);
-$green:     rgb(133, 153, 0);
+$darkgrey:      #3D3D3D;
+$white:         #E0E0E0;
+$lightblack:    #202020;
+$base00:        rgb(178, 178, 178);
+$base1:         rgb(147, 161, 161);
+$base2:         rgb(238, 232, 213);
+$base3:         rgb(0, 0, 0);
+$yellow:        rgb(181, 137, 0);
+$orange:        rgb(203, 75, 22);
+$red:           rgb(220, 50, 47);
+$magenta:       rgb(211, 54, 130);
+$violet:        rgb(108, 113, 196);
+$blue:          rgb(38, 139, 210);
+$cyan:          rgb(42, 161, 152);
+$green:         rgb(133, 153, 0);
 
 %display-header {
   margin: 0;
@@ -38,7 +41,7 @@ $green:     rgb(133, 153, 0);
 %invisible-hr {
   border-style: solid;
   border-width: 0.5px;
-  border-color: $base3; 
+  border-color: $white; 
 }
 
 @mixin mobile-border {
@@ -54,7 +57,7 @@ $green:     rgb(133, 153, 0);
 }
 
 html {
-    background-color: $base3;
+    background-color: $lightblack;
     color: $base00;
 
   font-family:
@@ -94,7 +97,7 @@ body {
 a {
   color: $blue;
   text-decoration: underline;
-    text-decoration-color: $base1;
+  text-decoration-color: $darkgrey;
 
   &:hover {
     color: $cyan;
@@ -174,6 +177,8 @@ article {
   }
 
   header {
+    color: $white;
+
     h1 {
       @extend %display-header;
     }
@@ -198,6 +203,7 @@ article {
       margin-top: 2.2rem;
       font-size: 1rem;
       margin-bottom: 0.3rem;
+      color: $white;
     }
 
     & > p {
