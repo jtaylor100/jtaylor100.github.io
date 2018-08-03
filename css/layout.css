@@ -15,7 +15,7 @@ article hr, div.home hr {
 html {
   background-color: #202020;
   color: #b2b2b2;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto", "Ubuntu", "Helvetica Neue", Arial, sans-serif;
 }
 @media (max-width: 689px) {
   html {
