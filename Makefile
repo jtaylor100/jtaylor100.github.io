@@ -11,7 +11,7 @@ CSS		:= $(CSS_DIR)/layout.css
 all: $(POSTS) $(PAGES) $(CSS) 
 regen: clean all
 clean:
-	rm -f $(POSTS) $(CSS) $(PAGES)
+	rm -f $(POSTS_DIR)/* $(CSS) $(PAGES)
 %.html: $(TEMPLATES_DIR)/%.html $(TEMPLATES_DIR)/main.html
 	pandoc --template $(TEMPLATES_DIR)/main.html $< -o $@
 $(POSTS_DIR)/%.html: $(MARKDOWN_DIR)/%.markdown $(TEMPLATES_DIR)/post.html $(TEMPLATES_DIR)/main.html
