@@ -1,7 +1,0 @@
-* TODO Procedural Home page
-* TODO RSS
-* TODO Email for each RSS Update
-* TODO External link markers
-* TODO Json-ld metadata blocks
-* TODO Disclaimer about 'personal' posts
-* TODO Add "Discuss this on reddit and hacker news" links
