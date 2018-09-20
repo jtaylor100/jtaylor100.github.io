@@ -14,7 +14,7 @@ main = hakyllWith customConfig $ do
         route   idRoute
         compile compressCssCompiler
 
-    match (fromList ["contact.markdown"]) $ do
+    match (fromList ["about.markdown"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
