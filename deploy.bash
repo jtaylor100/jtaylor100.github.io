@@ -7,6 +7,7 @@ git stash
 git checkout hakyll 
 
 # Build new files
+stack build
 stack exec joshtaylorblog clean
 stack exec joshtaylorblog build
 
