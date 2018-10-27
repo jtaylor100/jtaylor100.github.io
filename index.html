@@ -23,9 +23,16 @@
         <div id="content">
             <h1>Home</h1>
 
-            <p>Welcome to my blog. I write about technology, anxiety and technology-induced
-anxiety. You can read <a href="../about.html">some things about me</a> or choose 
+            <p>Welcome to my blog. You can read <a href="../about.html">some things about me</a> or choose 
 a title from the list below that sounds relatable.</p>
+
+<p>I try to write-up useful things I learn during my work. Aimed towards anybody
+who has a role in production in the software industry, i.e. developers, testers,
+management, communication, ...</p>
+
+<p>Also included are some musings and reflections on personal life
+events. People who know me personally may find these interesting to read in
+order to understand my story.</p>
 
 <h2>Posts</h2>
 <table>    
@@ -53,9 +60,59 @@ a title from the list below that sounds relatable.</p>
 
 <p>…or you can find more in the <a href="./archive.html">archives</a>.</p>
 
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org", 
+        "@type": "Blog"
+        "accessMode": [
+            "textual",
+            "visual",
+            "diagramOnVisual",
+            "mathOnVisual"
+        ],
+        "accessModeSufficient": [
+            "textual",
+            "visual"
+        ],
+        "accessibilityFeature": [
+            "alternativeText",
+            "captions"
+        ],
+        "accessibilityHazard": "none",
+        "accessibilityAPI": "ARIA",
+        "accessibilityControl": [
+            "fullKeyboardControl",
+            "fullMouseControl",
+            "fullSwitchControl",
+            "fullTouchControl",
+            "fullVideoControl",
+            "fullVoiceControl"
+        ],
+        "accessibilitySummary": "Short descriptions for diagrams, but longer descriptions needed for more detailed visual elements.",
+        "accountablePerson": "https://joshtaylor.blog/about.html",
+        "audience": [
+            {
+                "@type":"PeopleAudience",
+                "suggestedMinAge": 16,
+                "audienceType": "Workers in the software industry",
+                "description": "Anybody working in the fields of software development, design, testing or management."
+            },
+            {
+                "@type":"PeopleAudience",
+                "suggstedMinAge": 16,
+                "audienceType": "Friends",
+                "description": "Anybody who knows the author personally."
+            }
+        ],
+        "author": "https://joshtaylor.blog/about.html",
+        "copyrightHolder": "https://joshtaylor.blog/about.html",
+        "copyrightYear": "2016"
+    }
+</script>
+
         </div>
         <div id="footer">
-            © 2015–2018 Josh Taylor. <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> 
+            © 2016 Josh Taylor. <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> 
             for article content. MIT License for site tools and styling.
         </div>
     </body>
