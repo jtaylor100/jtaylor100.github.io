@@ -65,5 +65,6 @@ customConfig = defaultConfiguration { previewHost = "0.0.0.0" }
 
 postCtx :: Context String
 postCtx =
-    dateField "date" "%B %e, %Y" `mappend`
+    dateField "date" "%F" `mappend` 
+    dateField "day" "%A"  `mappend`
     defaultContext
