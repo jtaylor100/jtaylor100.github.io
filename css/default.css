@@ -100,3 +100,22 @@ a:hover {
     text-decoration: underline;
 }
 
+table {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+table td, table th {
+    vertical-align: top;
+    padding: 4px 2px;
+}
+
+thead, tbody {
+    padding: 5px auto;
+}
+
+thead th {
+    text-align: inherit;
+    border-bottom: 1px solid lightgrey;
+}
+

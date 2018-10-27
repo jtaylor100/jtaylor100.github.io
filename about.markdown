@@ -22,13 +22,13 @@ top spot is unquestionable, being a [philomath][2] has its benefits.
 
 # Locations Online
 
+Username                                                       Community
 -------------------------------------------------------------  -------------
 [jawshtaylor](https://www.facebook.com/jawshtaylor)            Facebook
 [jtaylor100](https://www.goodreads.com/jtaylor100)             Goodreads 
 [jtaylor100](https://github.com/jtaylor100)                    Github
 [StorsJT](https://www.reddit.com/user/StorsJT)                 Reddit
 [Jtaylor100](https://en.wikipedia.org/wiki/User:Jtaylor100)    Wikipedia
--------------------------------------------------------------  -------------
 
 [1]: http://www.viacharacter.org/www/ 
 [2]: https://en.wikipedia.org/wiki/Philomath
