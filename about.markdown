@@ -27,6 +27,7 @@ Username                                                       Community
 [jawshtaylor](https://www.facebook.com/jawshtaylor)            Facebook
 [jtaylor100](https://www.goodreads.com/jtaylor100)             Goodreads 
 [jtaylor100](https://github.com/jtaylor100)                    Github
+[jtaylor100](https://www.linkedin.com/in/jtaylor100)           LinkedIn
 [StorsJT](https://www.reddit.com/user/StorsJT)                 Reddit
 [Jtaylor100](https://en.wikipedia.org/wiki/User:Jtaylor100)    Wikipedia
 
