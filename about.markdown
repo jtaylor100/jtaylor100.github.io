@@ -3,12 +3,12 @@ title: About Josh
 ---
 
 I am a software developer, recently graduated, trying to progress himself as a
-professional. Also love listening to the Grateful Dead and Calvin Harris. My 
+professional. Also love listening to the [Grateful Dead][] and [Calvin Harris][]. My
 ideal downtime is a Spätiwander or caffinated breakfast with friends.
 
 # Strengths
 
-When I filled in the [VIA survey on 'Character Strengths'][1], my top five strengths
+When I filled in the [VIA survey on 'Character Strengths'][Via], my top five strengths
 came out as the following.
 
 1. Love of Learning
@@ -18,18 +18,19 @@ came out as the following.
 5. Forgiveness
 
 In my opinion they align quite well with reality. _Love of Learning_ having its
-top spot is unquestionable, being a [philomath][2] has its benefits.
+top spot is unquestionable.
 
 # Locations Online
 
-Username                                                       Community
--------------------------------------------------------------  -------------
-[jawshtaylor](https://www.facebook.com/jawshtaylor)            Facebook
-[jtaylor100](https://www.goodreads.com/jtaylor100)             Goodreads 
-[jtaylor100](https://github.com/jtaylor100)                    Github
-[jtaylor100](https://www.linkedin.com/in/jtaylor100)           LinkedIn
-[StorsJT](https://www.reddit.com/user/StorsJT)                 Reddit
-[Jtaylor100](https://en.wikipedia.org/wiki/User:Jtaylor100)    Wikipedia
+Community   Username
+----------  -------------------------------------------------------------
+Facebook    [jawshtaylor](https://www.facebook.com/jawshtaylor)
+Goodreads   [jtaylor100](https://www.goodreads.com/jtaylor100)
+Github      [jtaylor100](https://github.com/jtaylor100)
+LinkedIn    [jtaylor100](https://www.linkedin.com/in/jtaylor100)
+Reddit      [StorsJT](https://www.reddit.com/user/StorsJT)
+Wikipedia   [Jtaylor100](https://en.wikipedia.org/wiki/User:Jtaylor100)
 
-[1]: http://www.viacharacter.org/www/ 
-[2]: https://en.wikipedia.org/wiki/Philomath
+[Via]: http://www.viacharacter.org/www
+[Grateful Dead]: http://www.dead.net/home
+[Calvin Harris]: http://calvinharris.com
