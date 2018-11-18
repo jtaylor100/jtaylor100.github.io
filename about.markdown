@@ -17,9 +17,6 @@ came out as the following.
 4. Creativity 
 5. Forgiveness
 
-In my opinion they align quite well with reality. _Love of Learning_ having its
-top spot is unquestionable.
-
 # Locations Online
 
 Community   Username
