@@ -1,13 +1,26 @@
+html {
+  font-size: 16px;
+}
+@media screen and (min-width: 320px) {
+  html {
+    font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+@media screen and (min-width: 1000px) {
+  html {
+    font-size: 22px;
+  }
+}
+
 body {
     color: black;
-    font-size: 16px;
     margin: 0 auto 0 auto;
-    max-width: 36rem;
-    font-family: "Arial";
+    max-width: 33rem;
+    font-family: system-ui, "Segoe UI";
 }
 
 p {
-    line-height: 1.4;
+    line-height: 1.5;
     color: #333;
 }
 
@@ -76,26 +89,14 @@ div#footer {
     }
 }
 
-h1 {
-    font-size: 24px;
-}
-
-h2 {
-    font-size: 20px;
-}
-
 div.info {
     color: #555;
-    font-size: 14px;
+    font-size: 0.9rem;
     font-style: italic;
 }
 
-ul {
-    list-style-type: square;
-}
-
 li {
-    margin: 5px auto;
+    margin: 0.5rem auto;
 }
 
 a {
@@ -113,7 +114,7 @@ table {
 
 table td, table th {
     vertical-align: top;
-    padding: 4px 2px;
+    padding: 0.4rem 0.6rem 0.4rem 0;
 }
 
 thead, tbody {
