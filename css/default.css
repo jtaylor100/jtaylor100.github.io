@@ -150,3 +150,7 @@ figure figcaption {
     padding-top: 0.2rem;
     font-size:0.8rem;
 }
+
+h2 {
+    font-weight: 500;
+}
