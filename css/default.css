@@ -126,3 +126,27 @@ thead th {
     text-align: left;
 }
 
+figure {
+    display: table;
+    float: right;
+}
+
+@media (max-width: 630px) {
+    figure {
+        margin: 0;
+        float: none;
+    }
+}
+
+
+figure img {
+    display:block;
+    width: 100%;
+}
+
+figure figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    padding-top: 0.2rem;
+    font-size:0.8rem;
+}

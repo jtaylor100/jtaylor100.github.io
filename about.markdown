@@ -6,7 +6,9 @@ I am a software developer, recently graduated, trying to progress himself as a
 professional. Also love listening to the [Grateful Dead][] and [Calvin Harris][]. My
 ideal downtime is a Spätiwander or caffinated breakfast with friends.
 
-# Strengths
+![Me drinking some tea in [Hebden Bridge][], April 2018](/images/josh.png)
+
+## Strengths
 
 When I filled in the [VIA survey on 'Character Strengths'][Via], my top five strengths
 came out as the following.
@@ -17,20 +19,20 @@ came out as the following.
 4. Creativity 
 5. Forgiveness
 
-# Contact
+## Contact
 
 Medium  Address
 ------  -------------------------------------------------------------
 E-Mail  [josh.taylor0686@gmail.com](mailto:josh.taylor0686@gmail.com)
 Phone   [+447411378096](tel:+447411378096)
 
-You can contact me through my phone number using
+I am available for messaging through my phone number using these services:
 
 - iMessage
 - SMS
 - WhatsApp
 
-# Locations Online
+## Locations Online
 
 Community   Username
 ----------  -------------------------------------------------------------
@@ -42,6 +44,7 @@ LinkedIn    [jtaylor100](https://www.linkedin.com/in/jtaylor100)
 Reddit      [StorsJT](https://www.reddit.com/user/StorsJT)
 Wikipedia   [Jtaylor100](https://en.wikipedia.org/wiki/User:Jtaylor100)
 
-[Via]: http://www.viacharacter.org/www
-[Grateful Dead]: http://www.dead.net/home
 [Calvin Harris]: http://calvinharris.com
+[Grateful Dead]: http://www.dead.net/home
+[Hebden Bridge]: https://en.wikipedia.org/wiki/Hebden_Bridge
+[Via]: http://www.viacharacter.org/www
