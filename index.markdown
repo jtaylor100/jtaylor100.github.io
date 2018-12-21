@@ -2,19 +2,16 @@
 title: Home
 ---
 
-<p>Welcome to my blog. You can read <a href="../about.html">some things about me</a> or choose
-  a title from the list below that sounds relatable.</p>
+Welcome to my blog. You can read some things [about me](../about.html) or choose
+a title from the list below that sounds relatable.
 
-<p>I try to write-up useful things I learn during my work. Usually journals of how I have
-  worked or of something that has occurred. Aimed towards anybody who has a role in production
-  in the software industry, i.e. developers, testers, management, communication, ... I would also
-  like to progess towards doing original research or rigourous reviews of existing research.</p>
+I try to write-up useful things I learn during my work. Usually journals of how I have
+worked or of something that has occurred. Aimed towards anybody who has a role in production
+in the software industry, i.e. developers, testers, management, communication, ... I would also
+like to progess towards doing original research or rigourous reviews of existing research.
 
-<p>Also included are some accounts and essays inspired from my personal life. People who know me
-  personally may find these interesting to read in order to understand my story.</p>
-
-<h2>Posts</h2>
-$partial("templates/post-list.html")$
+Also included are some accounts and essays inspired from my personal life. People who know me
+personally may find these interesting to read in order to understand my story.
 
 <script type="application/ld+json">
     {

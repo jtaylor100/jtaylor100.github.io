@@ -17,6 +17,19 @@ came out as the following.
 4. Creativity 
 5. Forgiveness
 
+# Contact
+
+Medium  Address
+------  -------------------------------------------------------------
+E-Mail  [josh.taylor0686@gmail.com](mailto:josh.taylor0686@gmail.com)
+Phone   [+447411378096](tel:+447411378096)
+
+You can contact me through my phone number using
+
+- iMessage
+- SMS
+- WhatsApp
+
 # Locations Online
 
 Community   Username
@@ -24,6 +37,7 @@ Community   Username
 Facebook    [jawshtaylor](https://www.facebook.com/jawshtaylor)
 Goodreads   [jtaylor100](https://www.goodreads.com/jtaylor100)
 Github      [jtaylor100](https://github.com/jtaylor100)
+Instagram   [jawshtaylor](https://www.instagram.com/jawshtaylor)
 LinkedIn    [jtaylor100](https://www.linkedin.com/in/jtaylor100)
 Reddit      [StorsJT](https://www.reddit.com/user/StorsJT)
 Wikipedia   [Jtaylor100](https://en.wikipedia.org/wiki/User:Jtaylor100)
