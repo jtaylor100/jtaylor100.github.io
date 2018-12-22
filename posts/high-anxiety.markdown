@@ -1,7 +1,6 @@
 ---
 title: High Anxiety
 date: 2017-03-24
-author: Josh Taylor
 ---
 
 It has become apparent to me recently that I have a real problem with anxiety.

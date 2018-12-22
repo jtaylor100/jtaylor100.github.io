@@ -148,10 +148,26 @@ figure figcaption {
     display: table-caption;
     caption-side: bottom;
     padding-top: 0.2rem;
-    font-size:0.8rem;
+    font-size:0.9rem;
 }
 
 h2 {
     font-weight: 500;
     margin-block-start: 1.5em;
+}
+
+div.conversation p {
+    max-width: 55vw;
+    width: 90%;
+    display: block;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.9rem;
+    background-color: #6e7887;
+}
+
+div.conversation p:nth-child(even) {
+    margin-right: 0;
+    margin-left: auto;
+    background-color: #3b5998;
 }

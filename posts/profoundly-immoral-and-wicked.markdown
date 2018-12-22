@@ -1,7 +1,6 @@
 ---
 title: Profoundly Immoral and Wicked
 date: 2016-02-18 
-author: Josh Taylor
 ---
 
 I had never once considered what it meant to be 'evil' until very recently. It
