@@ -153,4 +153,5 @@ figure figcaption {
 
 h2 {
     font-weight: 500;
+    margin-block-start: 1.5em;
 }
