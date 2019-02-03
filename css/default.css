@@ -36,10 +36,8 @@ div#header {
     padding: 0.6rem 0 0.6rem 0;
 }
 
-div#logo a {
-    color: black;
+div#logo {
     float: left;
-    font-size: 1.2rem;
     font-weight: bold;
     text-decoration: none;
 }
@@ -49,11 +47,8 @@ div#header #navigation {
 }
 
 div#header #navigation a {
-    color: black;
-    font-size: 1.2rem;
-    font-weight: bold;
+    font-weight: 900;
     margin-left: 0.5rem;
-    text-decoration: none;
     text-transform: uppercase;
 }
 
@@ -74,18 +69,8 @@ div#footer {
 }
 
 @media (max-width: 450px) {
-    div#logo a {
-        float: none;
-    }
-
-    div#header #navigation {
-        text-align: left;
-        margin-top: 6px;
-    }
-
     div#header #navigation a {
         margin-left: 0;
-        margin-right: 12px;
     }
 }
 
@@ -97,14 +82,6 @@ div.info {
 
 li {
     margin: 0.5rem auto;
-}
-
-a {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 table {
@@ -157,8 +134,7 @@ h2 {
 }
 
 div.conversation p {
-    max-width: 55vw;
-    width: 90%;
+    width: 80%;
     display: block;
     color: white;
     padding: 0.5rem 1rem;
@@ -170,4 +146,13 @@ div.conversation p:nth-child(even) {
     margin-right: 0;
     margin-left: auto;
     background-color: #3b5998;
+}
+
+a {
+    padding: 0.1rem;
+}
+
+a:hover {
+    background-color: lightgrey;
+    text-decoration: none;
 }
