@@ -22,8 +22,8 @@ came out as the following.
 ## Contact
 
 Medium  Address
-------  -------------------------------------------------------------
-E-Mail  [josh.taylor0686@gmail.com](mailto:josh.taylor0686@gmail.com)
+------  --------------------------------------------------------
+E-Mail  [josh@joshtaylor.online](mailto:josh@joshtaylor.online)
 Phone   [+447411378096](tel:+447411378096)
 
 I am available for messaging through my phone number using these services:

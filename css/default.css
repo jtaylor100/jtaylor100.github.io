@@ -24,6 +24,7 @@ body {
     margin: 0 auto 0 auto;
     max-width: 33rem;
     font-family: system-ui, "Segoe UI";
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 
 p {
