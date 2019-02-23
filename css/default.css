@@ -12,6 +12,7 @@ html {
   html {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   }
+
 }
 @media screen and (min-width: 1000px) {
   html {
@@ -27,9 +28,13 @@ body {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 
-p {
+p, dl {
     line-height: 1.5;
     color: #333;
+}
+
+p {
+    text-align: justify;
 }
 
 hr {
@@ -42,6 +47,7 @@ div#header {
     border-bottom: 0.1px solid lightgrey;
     margin-bottom: 2rem;
     padding: 0.6rem 0 0.6rem 0;
+    hyphens: none;
 }
 
 div#logo {
@@ -70,10 +76,25 @@ div#footer {
 }
 
 @media (max-width: 600px) {
-    div#content, div#header, div#footer {
+    div#header,
+    div#footer {
         padding-left: 1rem;
         padding-right: 1rem;
     }
+
+    div#content h1, div#content h2, div#content h3, div#content h4,
+    div#content p,
+    div#content dl,
+    div#content table
+    {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    p {
+        text-align: left;
+    }
+
 }
 
 @media (max-width: 450px) {
@@ -114,11 +135,13 @@ thead th {
 figure {
     display: table;
     float: right;
+    margin-top:0;
+    margin-right:0;
 }
 
 @media (max-width: 630px) {
     figure {
-        margin: 0;
+        margin: 0 auto;
         float: none;
     }
 }
@@ -163,4 +186,20 @@ a {
 a:hover {
     background-color: lightgrey;
     text-decoration: none;
+}
+
+dl {
+    display: grid;
+}
+
+dl dt {
+    font-weight: 500;
+    grid-column: 1;
+    text-align: right;
+}
+
+dl dd {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    grid-column: 2;
 }

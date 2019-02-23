@@ -3,6 +3,8 @@ title: My Values
 date: 2019-02-23
 ---
 
+## Introduction
+
 My values are always changing, so I am trying to codify these here as best I
 can. These include some frameworks aiding thinking about how one should act.
 Also included is a directory of recurring value areas with my opinions on them.
@@ -35,21 +37,47 @@ I think there are a few traits in people which I inherently value. Some more
 than others. These are all things that could be used to direct my everyday
 actions. These are sorted in my personal feeling of 'importance'.
 
-- Altruism :: Wanting to increase other people's quality of life.
-- Civility :: Communicating in a way that's constructive when conflict arises.
-- Fairness :: Giving everybody a chance, not succumbing to prejudice.
-- Focus :: Trying to solve every problem is a great way to solve none of them.
-- Growth :: Always wanting to be a better person within their context.
-- Health :: Being well functioning.
-- Honesty :: Being transparent in actions, motivations and feelings without brutality.
-- Humility :: Never assuming personal superiority in all areas or without evidence.
-- Mindfulness :: Not suppressing emotions, but also not over-reacting to them.
-- Pragmatism :: Not irrationally pursuing perfection, but also not acceptant of
-  mediocrity.
-- Rationality :: Not succumbing to dogma or crowd mentality, applying reason sensibly.
-- Reliability :: Being there when needed most with the people you value most.
-- Respect :: Giving due weight to those perceived to have greater experiences.
-- Self-sufficiency :: Looking after yourself.
+Altruism
+: Wanting to increase other people's quality of life.
+
+Civility
+: Communicating in a way that's constructive when conflict arises.
+
+Fairness
+: Giving everybody a chance, not succumbing to prejudice.
+
+Focus
+: Trying to solve every problem is a great way to solve none of them.
+
+Growth
+: Always wanting to be a better person within their context.
+
+Health
+: Being well functioning.
+
+Honesty
+: Being transparent in actions, motivations and feelings without brutality.
+
+Humility
+: Never assuming personal superiority in all areas or without evidence.
+
+Mindfulness
+: Not suppressing emotions, but also not over-reacting to them.
+
+Pragmatism
+: Not irrationally pursuing perfection, but also not acceptant of mediocrity.
+
+Rationality
+: Not succumbing to dogma or crowd mentality, applying reason sensibly.
+
+Reliability
+: Being there when needed most with the people you value most.
+
+Respect
+: Giving due weight to those perceived to have greater experiences.
+
+Self-sufficiency
+: Looking after yourself.
 
 ### Rule driven values
 
