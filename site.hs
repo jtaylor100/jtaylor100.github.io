@@ -18,7 +18,8 @@ main = hakyllWith customConfig $ do
     match "values.markdown" $ do
         route   $ setExtension "html"
         compile $ pandocCompilerWith defaultHakyllReaderOptions withToc
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= loadAndApplyTemplate "templates/living-doc.html" dateCtx
+            >>= loadAndApplyTemplate "templates/default.html" dateCtx
             >>= relativizeUrls
 
     match "about.markdown" $ do
@@ -30,8 +31,8 @@ main = hakyllWith customConfig $ do
     match "posts/*" $ do
         route $ setExtension "html"
         compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= loadAndApplyTemplate "templates/post.html"    dateCtx
+            >>= loadAndApplyTemplate "templates/default.html" dateCtx
             >>= relativizeUrls
 
     create ["archive.html"] $ do
@@ -39,7 +40,7 @@ main = hakyllWith customConfig $ do
         compile $ do
             posts <- recentFirst =<< loadAll "posts/*"
             let archiveCtx =
-                    listField "posts" postCtx (return posts) `mappend`
+                    listField "posts" dateCtx (return posts) `mappend`
                     constField "title" "Archives"            `mappend`
                     defaultContext
 
@@ -54,7 +55,7 @@ main = hakyllWith customConfig $ do
         compile $ do
             posts <- recentFirst =<< loadAll "posts/*"
             let indexCtx =
-                    listField "posts" postCtx (return posts) `mappend`
+                    listField "posts" dateCtx (return posts) `mappend`
                     constField "title" "Home"                `mappend`
                     defaultContext
 
@@ -65,15 +66,16 @@ main = hakyllWith customConfig $ do
 
     match "templates/*" $ compile templateCompiler
   where
-    withToc = defaultHakyllWriterOptions { writerTableOfContents = True, writerTemplate = Just "$toc$\n$body$" }
-
+    withToc = defaultHakyllWriterOptions
+        { writerTableOfContents = True
+        , writerTemplate = Just "$toc$\n$body$"
+        }
+    dateCtx =
+        dateField "date" "%F" `mappend`
+        dateField "day" "%A"  `mappend`
+        defaultContext
 
 --------------------------------------------------------------------------------
 customConfig :: Configuration
 customConfig = defaultConfiguration { previewHost = "0.0.0.0" }
 
-postCtx :: Context String
-postCtx =
-    dateField "date" "%F" `mappend` 
-    dateField "day" "%A"  `mappend`
-    defaultContext

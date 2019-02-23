@@ -189,6 +189,7 @@ a:hover {
 }
 
 dl {
+    hyphens: none;
     display: grid;
 }
 

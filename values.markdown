@@ -5,37 +5,54 @@ date: 2019-02-23
 
 ## Introduction
 
-My values are always changing, so I am trying to codify these here as best I
-can. These include some frameworks aiding thinking about how one should act.
-Also included is a directory of recurring value areas with my opinions on them.
+My personal values are always changing, so I am trying to codify these here as
+best I can. This may then be used as a reference for what my actualized self
+could be, providing a clearer meaningful direction for my life.
+
+These include some frameworks aiding thinking about how one should act,
+inspired by thinking on normative ethics. Also included is a directory of
+common value areas with my opinions on them.
 
 
 ## Frameworks
 
-Working out what I value is a difficult problem. Wikipedia has an
-article on [normative ethics][] which gives some ideas for how I should decide
-to act:
+Working out what I value is a difficult problem. Even just starting to think
+about it is a task. Thankfully, there's been lots of thinking done in the past
+in the field of [normative ethics][]. The field is concerned with working out
+how one should act. How do we decide what valuable behaviour is? Three main
+concepts to drive personal values presented themselves to me:
 
-- Acting in accordance with desirable traits.
-- Establishing and following common laws of morality.
-- Aiming for actions with desirable outcomes.
+Virtues
+: Acting in accordance with desirable personal traits.
 
-Each is interesting, full of ambiguity (like what does 'desirable' mean to me?)
-and should be explored. I don't think basing my life completely on one of these
-is realistic since they all seem flawed when used wholly. A mixture would be
-best.
+Rules
+: Establishing and following laws of morality.
+
+Outcomes
+: Choosing actions with desirable outcomes.
+
+Each concept is interesting, full of ambiguity (like what does 'desirable' mean
+to me?) and should be explored. Each answer also seem flawed when used wholly.
+If I only ever lived for outcomes and achievement, what kind of person would I
+become? Similarly if I always followed strict morality but never achieved
+anything, what would I be leaving behind?
+
+When properly explored, I think each of these concepts could become useful
+frameworks in deciding between one action or another.
+
+[normative ethics]: https://en.wikipedia.org/wiki/Normative_Ethics
 
 ### Virtue driven values
 
-Deciding your actions based on how aligned the action
-is with your ideal character traits. Like not lying because you value honesty,
-not acting on prejudice because you value fairness or not engaging in personal
-attacks because you value civility. Benjamin Franklin set up [personal
+The first framework is deciding your actions based on how aligned the action is
+with virtues you appreciate in other people. Like not lying because you value
+honesty, not acting on prejudice because you value fairness or not engaging in
+personal attacks because you value civility. Benjamin Franklin set up [personal
 virtues][] from a young age which he meticulously sought to follow.
 
 I think there are a few traits in people which I inherently value. Some more
 than others. These are all things that could be used to direct my everyday
-actions. These are sorted in my personal feeling of 'importance'.
+actions. They have a great deal of overlap, but I think this is inevitable.
 
 Altruism
 : Wanting to increase other people's quality of life.
@@ -47,13 +64,14 @@ Fairness
 : Giving everybody a chance, not succumbing to prejudice.
 
 Focus
-: Trying to solve every problem is a great way to solve none of them.
+: Understanding that attempting to solve every problem at once is a great way
+to solve none of them.
 
 Growth
 : Always wanting to be a better person within their context.
 
 Health
-: Being well functioning.
+: Being physically well functioning.
 
 Honesty
 : Being transparent in actions, motivations and feelings without brutality.
@@ -65,45 +83,50 @@ Mindfulness
 : Not suppressing emotions, but also not over-reacting to them.
 
 Pragmatism
-: Not irrationally pursuing perfection, but also not acceptant of mediocrity.
+: Not irrationally pursuing perfection, but also not remaining complacent with
+mediocrity.
 
 Rationality
 : Not succumbing to dogma or crowd mentality, applying reason sensibly.
 
 Reliability
-: Being there when needed most with the people you value most.
+: Being there when needed most with the people they value most.
 
 Respect
 : Giving due weight to those perceived to have greater experiences.
 
 Self-sufficiency
-: Looking after yourself.
+: Looking after themselves.
+
+[personal virtues]: http://www.thirteenvirtues.com/
 
 ### Rule driven values
 
-Your actions should be decided based on a set of rules rather than the outcome
-of the actions. This binds you to the duties you need to fulfil in your life.
-The consequences of actions don't make them right or wrong, but the motives of
-the person who caries out the action.
+The second framework is basing your actions on a set of rules rather than the
+outcome of the actions. This binds you to the duties you need to fulfil in your
+life. The consequences of actions don't make them right or wrong, but the
+motives of the person who caries out the action are the driving forces of
+'correct' behaviour.
 
-The arguments of [Kant][] are that an action is 'good' when it is intrinsically
-good without and qualification, when more of the action can never make a
-situation 'bad'. This discounts any virtue which anybody could state, since
-each virtue can be twisted to be ethically bad and an excess of a traditionally
-good virtue can be bad. Kant says the only thing that can be intrinsically good
-is a *good will*. I.e. acting in accordance with 'some' moral law. That you're
-trying to act in 'some' best interest.
+The arguments of [Immanual Kant][] are that an action is 'good' when it is
+intrinsically good without qualification, when more of the action can never
+make a situation 'bad'. This discounts any virtue which anybody could state,
+since each virtue can be twisted to be ethically bad and an excess of a
+traditionally good virtue can be bad. Kant says the only thing that can be
+intrinsically good is a *good will*. I.e. acting in accordance with 'some'
+moral law. That you're trying to act in 'some' best interest.
 
 Kant's [Categorical Imperative][] can help evaluate the motivations for actions. It reads:
 
 > Act only according to that Maxim whereby you can, at the same time will that
 > it should become a universal law.
 
-The way I interpret that is "don't do something, unless you wish it were done
-by everyone". This can go to the extreme, such as lying to a murderer about the
-whereabouts of their victim. Kant saw lying as universally wrong even in this
-situation, which I disagree with and removes lying as a universal maxim in my
-eyes. Very similar to 'love thy neighbour' in Christianity.
+The way I interpret that is: don't do something, unless you think it would be
+okay if everyone did it. This can go to the extreme, such as lying to a
+murderer about the whereabouts of their victim. Kant saw lying as universally
+wrong even in this situation, which I disagree with and removes lying as a
+universal maxim in my eyes. Very similar to 'love thy neighbour' in
+Christianity.
 
 Kant also had an extra statement to add to the categorical imperative:
 
@@ -117,47 +140,70 @@ you would wish upon yourself if you were in the shoes of the person it is
 helping. Charity not as a means to an end but as an end-in-itself, recognising
 it's intrinsic value.
 
-I can think of some other Maxims which I will to be universal laws:
+I need to explore this some more since universal laws are quite hard to think
+of.
 
-#### Eat only when you are hungry
-
-I.e. don't waste resources on yourself for petty or compulsive reasons. Make
-sure everything you spend has meaning behind it.
+[categorical imperative]: https://en.wikipedia.org/wiki/Categorical_imperative
+[Immanual Kant]: https://en.wikipedia.org/wiki/Immanuel_Kant
 
 ### Outcome driven values
 
-A morally right act (or decision not to act) is one
-that will produce a good outcome or consequence. There are many different
-theories as to what 'a good outcome or consequence' means. [Utilitarianism][]
-by Bentham, [State consequentialism][] where something is valuable if it's
-valuable to the state (Confuscious inspired), [Egoism][] which Ayn Rand likes
-where the most moral person is the self-interested person, [situational
-ethics][] where love is maximised, [intellectualism][] where knowledge as an
-end-in-itself is maximised, [Welfarism][] which maximises economic welfare,
-[preference utilitarianism][] where the most valued action is the one that
-satisfies the most people and [role ethics][] where your values are decided by
-your role in the community you live in.
+The final framework is defining a morally right act (or decision not to act) as
+one that will produce a good outcome or consequence. Unsurprisingly, there are
+many different theories as to what 'a good outcome or consequence' means.
+
+[Utilitarianism][]
+: The greatest social benefit for the greatest number of people.
+
+[State consequentialism][]
+: Produces the greated value for the state you live
+in (Confuscious inspired).
+
+[Egoism][]
+: The greatest social benefit or gratification for yourself.
+
+[Situational ethics][]
+: The greatest amount unconditional love is created.
+
+[Intellectualism][]
+: The greatest amount of knowledge is created or retained,
+regardless of its use.
+
+[Welfarism][]
+: Improves the economic welfare of the greater number of people.
+
+[Preference utilitarianism][]
+: Personally satisfies the greatest number of
+people according to their own wishes.
+
+[Role ethics][]
+: The outcome that is most aligned with your assigned role in
+your community or society.
 
 [State consequentialism]: https://en.wikipedia.org/wiki/State_consequentialism
 [Utilitarianism]: https://en.wikipedia.org/wiki/Utilitarianism
 [Egoism]: https://en.wikipedia.org/wiki/Ethical_egoism
-[situational ethics]: https://en.wikipedia.org/wiki/Situational_ethics
+[Situational ethics]: https://en.wikipedia.org/wiki/Situational_ethics
 [intellectualism]: https://en.wikipedia.org/wiki/Intellectualism
 [Welfarism]: https://en.wikipedia.org/wiki/Welfarism
-[preference utilitarianism]: https://en.wikipedia.org/wiki/Preference_utilitarianism
+[Preference utilitarianism]: https://en.wikipedia.org/wiki/Preference_utilitarianism
 [role ethics]: https://en.wikipedia.org/wiki/Role_ethics
 
 ## Common Value Areas
 
-There's this questionnaire in 'The Happiness Trap' that cycles through some of
-the most common things people value and asks your position on them. This is my
-output.
+There's this questionnaire in '[The Happiness Trap][]' by Russ Harris that
+cycles through some of the most common things people value and asks your
+position on them. It's been helpful in getting me to apply the above frameworks
+directly to everyday situations, making them less abstract.
 
-Relationships, personal growth and health. In particular the relationships with my family, my personal growth as a moral individual and maintaining myself as a well-functioning person. I also value having my work tied to something I intrinsically value.
+These cover relationships, work, personal growth and leisure.
+
+[The Happiness Trap]:
+https://www.goodreads.com/book/show/3250347-the-happiness-trap
 
 ### Relationships
 
-Familial, friendly and romantic relationships.
+Familial, platonic and romantic relationships.
 
 #### What sort of relationships do you want to build?
 
@@ -180,15 +226,16 @@ relate to each other.
 
 #### What sort of ongoing activities do you want to do with some of these people?
 
-Chances to explore each other. Like informal trips for tea and coffee,to chat
+Chances to explore each other. Like informal trips for tea and coffee, to chat
 one-on-one in a more interesting manner, even if it's somebody relatively
-unknown.  Also more structured environment like debating clubs, baking or other
+unknown.  Also more structured activities like debating clubs, baking or other
 social-based games. Whilst physically separated from the person, phone calls
 and not so much messaging.
 
 ### Work/Education
 
-Workplace and career, education and knowledge or further skills development.
+Workplace and career. Also education and knowledge or further skills
+development.
 
 #### What personal qualities would you like to bring to the workplace?
 Productivity, helpfulness, truthfulness over compliance, curiosity, rigour,
@@ -245,7 +292,3 @@ Dating, reading and exploring. Hanging out with close family and friends.
 Maybe learn to dance and cook better. Visit art and museums, use this as
 spiritual guidance.
 
-[categorical imperative]: https://en.wikipedia.org/wiki/Categorical_imperative
-[Kant]: https://en.wikipedia.org/wiki/Immanuel_Kant
-[normative ethics]: https://en.wikipedia.org/wiki/Normative_Ethics
-[personal virtues]: http://www.thirteenvirtues.com/
