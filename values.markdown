@@ -1,8 +1,14 @@
+---
+title: My Values
+date: 2019-02-23
+---
+
 My values are always changing, so I am trying to codify these here as best I
 can. These include some frameworks aiding thinking about how one should act.
 Also included is a directory of recurring value areas with my opinions on them.
 
-# Frameworks 
+
+## Frameworks
 
 Working out what I value is a difficult problem. Wikipedia has an
 article on [normative ethics][] which gives some ideas for how I should decide
@@ -17,7 +23,7 @@ and should be explored. I don't think basing my life completely on one of these
 is realistic since they all seem flawed when used wholly. A mixture would be
 best.
 
-## Virtue driven values 
+### Virtue driven values
 
 Deciding your actions based on how aligned the action
 is with your ideal character traits. Like not lying because you value honesty,
@@ -45,7 +51,7 @@ actions. These are sorted in my personal feeling of 'importance'.
 - Respect :: Giving due weight to those perceived to have greater experiences.
 - Self-sufficiency :: Looking after yourself.
 
-## Rule driven values 
+### Rule driven values
 
 Your actions should be decided based on a set of rules rather than the outcome
 of the actions. This binds you to the duties you need to fulfil in your life.
@@ -85,12 +91,12 @@ it's intrinsic value.
 
 I can think of some other Maxims which I will to be universal laws:
 
-### Eat only when you are hungry 
+#### Eat only when you are hungry
 
 I.e. don't waste resources on yourself for petty or compulsive reasons. Make
 sure everything you spend has meaning behind it.
 
-## Outcome driven values 
+### Outcome driven values
 
 A morally right act (or decision not to act) is one
 that will produce a good outcome or consequence. There are many different
@@ -109,7 +115,7 @@ utilitarianism]] where the most valued action is the one that satisfies the
 most people and [[https://en.wikipedia.org/wiki/Role_ethics][role ethics]]
 where your values are decided by your role in the community you live in.
 
-# Common Value Areas 
+## Common Value Areas
 
 There's this questionnaire in 'The Happiness Trap' that cycles through some of
 the most common things people value and asks your position on them. This is my
@@ -117,69 +123,69 @@ output.
 
 Relationships, personal growth and health. In particular the relationships with my family, my personal growth as a moral individual and maintaining myself as a well-functioning person. I also value having my work tied to something I intrinsically value.
 
-## Relationships 
+### Relationships
 
 Familial, friendly and romantic relationships.
 
-### What sort of relationships do you want to build? 
+#### What sort of relationships do you want to build?
 
 Ones that don't just exist on the surface, that have real connection to what
 the other person really strives for in life. That cut at the core of what the
 other person really values and try to find common ground, where you can truly
 relate to each other.
 
-### How do you want to behave in these relationships? 
+#### How do you want to behave in these relationships?
 
-* To listen well and attentively. 
-* To not be the main character type, be genuinely concerned about the other person. 
-* To communicate clearly and without complication. 
-* To be honest and forthright. 
+* To listen well and attentively.
+* To not be the main character type, be genuinely concerned about the other person.
+* To communicate clearly and without complication.
+* To be honest and forthright.
 * Accepting and understanding when the other person doesn't behave how I would like them to.
-* Not reading too much into what isn't there. 
-* Not acting nervous about what they might say. 
-* Assertive when they are being objectively abusive. 
+* Not reading too much into what isn't there.
+* Not acting nervous about what they might say.
+* Assertive when they are being objectively abusive.
 * To make the other person feel like you're thinking of them.
 
-### What sort of ongoing activities do you want to do with some of these people?
-    
+#### What sort of ongoing activities do you want to do with some of these people?
+
 Chances to explore each other. Like informal trips for tea and coffee,to chat
 one-on-one in a more interesting manner, even if it's somebody relatively
 unknown.  Also more structured environment like debating clubs, baking or other
 social-based games. Whilst physically separated from the person, phone calls
 and not so much messaging.
 
-## Work/Education
+### Work/Education
 
 Workplace and career, education and knowledge or further skills development.
 
-### What personal qualities would you like to bring to the workplace?
+#### What personal qualities would you like to bring to the workplace?
 Productivity, helpfulness, truthfulness over compliance, curiosity, rigour,
 justice.
 
-### How would you behave toward your colleagues if you were the 'ideal you'?
+#### How would you behave toward your colleagues if you were the 'ideal you'?
 
 Respectful of how their personal life has precedence. Being civil in any
 disagreement. Respectful of their background and experience. Cheerful in the
 face of looming situations. Openly communicating issues and shortcomings in
 knowledge.
 
-### What relationships do you want to build in the workplace or at school? 
+#### What relationships do you want to build in the workplace or at school?
 
 Like in my personal live, not existing completely on the surface, but digging
 at the root of what the person is all about. What's their pursuit? What drives
 them to the same place I am?
 
-### What skills, knowledge or personal qualities do you want to develop?
+#### What skills, knowledge or personal qualities do you want to develop?
 
 Persuasiveness, confidence, engaging teaching, quantitative reasoning. Being
 well informed about making career choices.
 
-## Personal Growth/Health 
+### Personal Growth/Health
 
 Activities that aid my ongoing development as a human-being physically,
 emotionally and mentally.
 
-### What ongoing activities would you like to start or take up again?
+#### What ongoing activities would you like to start or take up again?
 
 I'd like to learn languages and read foreign language books. To tackle abstract
 mathematical issues and teach about them. I'd like to keep my muscles
@@ -189,20 +195,20 @@ making the most of the social connections I can make in the place where I live.
 I want to live in my everyday life according to the current unanimously
 accepted health advice.
 
-### What groups or centres would you like to join?
+#### What groups or centres would you like to join?
 
 Maybe some kind of social welfare charity, a group of professionals, a book
 club, a debating club, toastmasters.
 
-## Leisure
+### Leisure
 
 How I play, relax or enjoy myself. Sports, hobbies, arts, etc.
 
-### How do you wish to relax or have fun in a healthy, life-enhancing way? 
+#### How do you wish to relax or have fun in a healthy, life-enhancing way?
 
 Dating, reading and exploring. Hanging out with close family and friends.
 
-### What sorts of activities would you like to take up or do more of?
+#### What sorts of activities would you like to take up or do more of?
 
 Maybe learn to dance and cook better. Visit art and museums, use this as
 spiritual guidance.

@@ -2,6 +2,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
+import           Text.Pandoc.Options
 
 --------------------------------------------------------------------------------
 main :: IO ()
@@ -13,6 +14,12 @@ main = hakyllWith customConfig $ do
     match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
+
+    match "values.markdown" $ do
+        route   $ setExtension "html"
+        compile $ pandocCompilerWith defaultHakyllReaderOptions withToc
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
 
     match "about.markdown" $ do
         route   $ setExtension "html"
@@ -57,6 +64,8 @@ main = hakyllWith customConfig $ do
                 >>= relativizeUrls
 
     match "templates/*" $ compile templateCompiler
+  where
+    withToc = defaultHakyllWriterOptions { writerTableOfContents = True, writerTemplate = Just "$toc$\n$body$" }
 
 
 --------------------------------------------------------------------------------
