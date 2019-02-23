@@ -48,6 +48,7 @@ div#header {
     margin-bottom: 2rem;
     padding: 0.6rem 0 0.6rem 0;
     hyphens: none;
+    font-size: 0.9rem;
 }
 
 div#logo {
@@ -85,7 +86,8 @@ div#footer {
     div#content h1, div#content h2, div#content h3, div#content h4,
     div#content p,
     div#content dl,
-    div#content table
+    div#content table,
+    div.info
     {
         margin-left: 1rem;
         margin-right: 1rem;
