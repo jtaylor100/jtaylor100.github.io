@@ -130,18 +130,22 @@ A morally right act (or decision not to act) is one
 that will produce a good outcome or consequence. There are many different
 theories as to what 'a good outcome or consequence' means. [Utilitarianism][]
 by Bentham, [State consequentialism][] where something is valuable if it's
-valuable to the state (Confuscious inspired),
-[[https://en.wikipedia.org/wiki/Ethical_egoism][Egoism]] which Ayn Rand likes
-where the most moral person is the self-interested person,
-[[https://en.wikipedia.org/wiki/Situational_ethics][situational ethics]] where
-love is maximised,
-[[https://en.wikipedia.org/wiki/Intellectualism][intellectualism]] where
-knowledge as an end-in-itself is maximised,
-[[https://en.wikipedia.org/wiki/Welfarism][Welfarism]] which maximises economic
-welfare, [[https://en.wikipedia.org/wiki/Preference_utilitarianism][preference
-utilitarianism]] where the most valued action is the one that satisfies the
-most people and [[https://en.wikipedia.org/wiki/Role_ethics][role ethics]]
-where your values are decided by your role in the community you live in.
+valuable to the state (Confuscious inspired), [Egoism][] which Ayn Rand likes
+where the most moral person is the self-interested person, [situational
+ethics][] where love is maximised, [intellectualism][] where knowledge as an
+end-in-itself is maximised, [Welfarism][] which maximises economic welfare,
+[preference utilitarianism][] where the most valued action is the one that
+satisfies the most people and [role ethics][] where your values are decided by
+your role in the community you live in.
+
+[State consequentialism]: https://en.wikipedia.org/wiki/State_consequentialism
+[Utilitarianism]: https://en.wikipedia.org/wiki/Utilitarianism
+[Egoism]: https://en.wikipedia.org/wiki/Ethical_egoism
+[situational ethics]: https://en.wikipedia.org/wiki/Situational_ethics
+[intellectualism]: https://en.wikipedia.org/wiki/Intellectualism
+[Welfarism]: https://en.wikipedia.org/wiki/Welfarism
+[preference utilitarianism]: https://en.wikipedia.org/wiki/Preference_utilitarianism
+[role ethics]: https://en.wikipedia.org/wiki/Role_ethics
 
 ## Common Value Areas
 
@@ -241,8 +245,6 @@ Dating, reading and exploring. Hanging out with close family and friends.
 Maybe learn to dance and cook better. Visit art and museums, use this as
 spiritual guidance.
 
-[State consequentialism]: https://en.wikipedia.org/wiki/State_consequentialism
-[Utilitarianism]: https://en.wikipedia.org/wiki/Utilitarianism
 [categorical imperative]: https://en.wikipedia.org/wiki/Categorical_imperative
 [Kant]: https://en.wikipedia.org/wiki/Immanuel_Kant
 [normative ethics]: https://en.wikipedia.org/wiki/Normative_Ethics
