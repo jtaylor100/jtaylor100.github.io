@@ -15,12 +15,8 @@ main = hakyllWith customConfig $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "values.markdown" $ do
-        route   $ setExtension "html"
-        compile $ pandocCompilerWith defaultHakyllReaderOptions withToc
-            >>= loadAndApplyTemplate "templates/living-doc.html" dateCtx
-            >>= loadAndApplyTemplate "templates/default.html" dateCtx
-            >>= relativizeUrls
+    match "career.markdown" livingDocument
+    match "values.markdown" livingDocument
 
     match "about.markdown" $ do
         route   $ setExtension "html"
@@ -65,17 +61,27 @@ main = hakyllWith customConfig $ do
                 >>= relativizeUrls
 
     match "templates/*" $ compile templateCompiler
-  where
-    withToc = defaultHakyllWriterOptions
-        { writerTableOfContents = True
-        , writerTemplate = Just "$toc$\n$body$"
-        }
-    dateCtx =
-        dateField "date" "%F" `mappend`
-        dateField "day" "%A"  `mappend`
-        defaultContext
 
 --------------------------------------------------------------------------------
 customConfig :: Configuration
 customConfig = defaultConfiguration { previewHost = "0.0.0.0" }
 
+livingDocument :: Rules ()
+livingDocument = do
+  route   $ setExtension "html"
+  compile $ pandocCompilerWith defaultHakyllReaderOptions withToc
+      >>= loadAndApplyTemplate "templates/living-doc.html" dateCtx
+      >>= loadAndApplyTemplate "templates/default.html" dateCtx
+      >>= relativizeUrls
+
+withToc :: WriterOptions
+withToc = defaultHakyllWriterOptions
+    { writerTableOfContents = True
+    , writerTemplate = Just "$toc$\n$body$"
+    }
+
+dateCtx :: Context String
+dateCtx =
+    dateField "date" "%F" `mappend`
+    dateField "day" "%A"  `mappend`
+    defaultContext

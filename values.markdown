@@ -1,6 +1,6 @@
 ---
 title: My Values
-date: 2019-02-23
+date: 2019-03-10
 ---
 
 ## Introduction
@@ -97,6 +97,9 @@ Respect
 
 Self-sufficiency
 : Looking after themselves.
+
+Sociability
+: Being proactive in bringing people together.
 
 [personal virtues]: http://www.thirteenvirtues.com/
 
