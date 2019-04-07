@@ -1,13 +1,13 @@
 ---
 title: My Values
-date: 2019-03-10
+date: 2019-04-07
 ---
 
 ## Introduction
 
 My personal values are always changing, so I am trying to codify these here as
-best I can. This may then be used as a reference for what my actualized self
-could be, providing a clearer meaningful direction for my life.
+best I can. This codification may then be used as a reference for what my
+actualized self could be, providing a clearer meaningful direction for my life.
 
 These include some frameworks aiding thinking about how one should act,
 inspired by thinking on normative ethics. Also included is a directory of
@@ -18,8 +18,9 @@ common value areas with my opinions on them.
 
 Working out what I value is a difficult problem. Even just starting to think
 about it is a task. Thankfully, there's been lots of thinking done in the past
-in the field of [normative ethics][]. The field is concerned with working out
-how one should act. How do we decide what valuable behaviour is? Three main
+in the field of [normative ethics][]. This field is concerned with exploring
+the question: 'How should one act?'. How do we decide what valuable behaviour
+is? From summaries of the most well known works in this area, three main
 concepts to drive personal values presented themselves to me:
 
 Virtues
@@ -31,14 +32,15 @@ Rules
 Outcomes
 : Choosing actions with desirable outcomes.
 
-Each concept is interesting, full of ambiguity (like what does 'desirable' mean
-to me?) and should be explored. Each answer also seem flawed when used wholly.
-If I only ever lived for outcomes and achievement, what kind of person would I
-become? Similarly if I always followed strict morality but never achieved
-anything, what would I be leaving behind?
+Each concept is interesting, full of ambiguity and should be explored.
 
-When properly explored, I think each of these concepts could become useful
-frameworks in deciding between one action or another.
+Each answer also seem flawed when used wholly. If I only ever lived for
+outcomes and achievement, what kind of person would I become? Similarly if
+I always followed strict morality but never achieved anything, what would I be
+leaving behind?
+
+When properly explored, I think each of these concepts could be used as
+a framework for deciding between one action or another.
 
 [normative ethics]: https://en.wikipedia.org/wiki/Normative_Ethics
 
@@ -47,12 +49,19 @@ frameworks in deciding between one action or another.
 The first framework is deciding your actions based on how aligned the action is
 with virtues you appreciate in other people. Like not lying because you value
 honesty, not acting on prejudice because you value fairness or not engaging in
-personal attacks because you value civility. Benjamin Franklin set up [personal
-virtues][] from a young age which he meticulously sought to follow.
+personal attacks because you value civility.
+
+Benjamin Franklin set up [personal virtues][] from a young age which he
+meticulously sought to follow. His example is an interesting one to follow,
+although it was made in a very different age.
 
 I think there are a few traits in people which I inherently value. Some more
 than others. These are all things that could be used to direct my everyday
-actions. They have a great deal of overlap, but I think this is inevitable.
+actions. They have a great deal of overlap, but I think this is inevitable. So
+in following Franklin's example, here are a list of my personal virtues.[^friends]
+
+Adventurous
+: Willing to take risk, sensibly.
 
 Altruism
 : Wanting to increase other people's quality of life.
@@ -102,6 +111,13 @@ Sociability
 : Being proactive in bringing people together.
 
 [personal virtues]: http://www.thirteenvirtues.com/
+
+[^friends]: These virtues are defined here in my words but most were inspired
+by particular people I've met in my life. Each have been so inspiring that
+they left a lasting impression on me. Like they changed what I value in other
+people due to the standard that they set. A couple have come purely from
+authors, many reinforced by many works of writing, but I want to stress that
+the majority of these came from appreciating traits in real people.
 
 ### Rule driven values
 
@@ -295,3 +311,4 @@ Dating, reading and exploring. Hanging out with close family and friends.
 Maybe learn to dance and cook better. Visit art and museums, use this as
 spiritual guidance.
 
+## Notes
