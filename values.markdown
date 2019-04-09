@@ -247,9 +247,9 @@ relate to each other.
 
 Chances to explore each other. Like informal trips for tea and coffee, to chat
 one-on-one in a more interesting manner, even if it's somebody relatively
-unknown.  Also more structured activities like debating clubs, baking or other
-social-based games. Whilst physically separated from the person, phone calls
-and not so much messaging.
+unknown.  Also more structured activities like debating clubs, baking, creative
+activities or other social-based games. Whilst physically separated from the
+person, phone calls and not so much messaging.
 
 ### Work/Education
 
@@ -269,7 +269,7 @@ knowledge.
 
 #### What relationships do you want to build in the workplace or at school?
 
-Like in my personal live, not existing completely on the surface, but digging
+Like in my personal life, not existing completely on the surface, but digging
 at the root of what the person is all about. What's their pursuit? What drives
 them to the same place I am?
 
