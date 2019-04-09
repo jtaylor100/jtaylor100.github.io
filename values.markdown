@@ -175,7 +175,7 @@ many different theories as to what 'a good outcome or consequence' means.
 : The greatest social benefit for the greatest number of people.
 
 [State consequentialism][]
-: Produces the greated value for the state you live
+: Produces the greatest value for the state you live
 in (Confuscious inspired).
 
 [Egoism][]
