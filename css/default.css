@@ -23,13 +23,17 @@ html {
 body {
     color: black;
     margin: 0 auto 0 auto;
-    max-width: 33rem;
+    max-width: 38rem;
     font-family: system-ui, "Segoe UI";
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 
+#logo, #navigation, h1,h2,h3,h4 {
+    letter-spacing: -0.04em;
+}
+
 p, dl {
-    line-height: 1.3;
+    line-height: 1.4;
     color: #333;
 }
 
