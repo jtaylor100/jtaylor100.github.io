@@ -17,6 +17,7 @@ main = hakyllWith customConfig $ do
 
     match "career.markdown" livingDocument
     match "values.markdown" livingDocument
+    match "issues.markdown" livingDocument
 
     match "about.markdown" $ do
         route   $ setExtension "html"

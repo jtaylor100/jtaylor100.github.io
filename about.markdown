@@ -13,7 +13,8 @@ I was raised in [Barrington][], Cambridgeshire in the English countryside. My
 ideal Saturday is enjoying a caffeinated breakfast with friends.
 
 I try as best as I can to live consciously in line with my personal [values][].
-I also try to keep a public [career plan][] up-to-date.
+I also try to keep a public [career plan][] up-to-date which is informed by
+a list of [global issues][] I care about.
 
 [Barrington]: https://en.wikipedia.org/wiki/Barrington,_Cambridgeshire
 [functional programming]: https://en.wikipedia.org/wiki/Functional_programming
@@ -22,6 +23,7 @@ I also try to keep a public [career plan][] up-to-date.
 [Hebden Bridge]: https://en.wikipedia.org/wiki/Hebden_Bridge
 [values]: /values.html
 [career plan]: /career.html
+[global issues]: /issues.html
 
 ## Contact
 
