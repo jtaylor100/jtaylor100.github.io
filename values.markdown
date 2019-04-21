@@ -101,9 +101,6 @@ Rationality
 Reliability
 : Being there when needed most with the people they value most.
 
-Respect
-: Giving due weight to those perceived to have greater experiences.
-
 Self-sufficiency
 : Looking after themselves.
 
@@ -210,7 +207,7 @@ your community or society.
 
 ## Common Value Areas
 
-There's this questionnaire in '[The Happiness Trap][]' by Russ Harris that
+There's this questionnaire in _[The Happiness Trap][]_ by Russ Harris that
 cycles through some of the most common things people value and asks your
 position on them. It's been helpful in getting me to apply the above frameworks
 directly to everyday situations, making them less abstract.
