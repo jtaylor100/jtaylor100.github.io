@@ -1,27 +1,34 @@
 ---
 title: My Values
-date: 2019-04-07
+date: 2019-04-22
 ---
 
 ## Introduction
 
-My personal values are always changing, so I am trying to codify these here as
+My personal [values][] are always changing, so I try to codify these here as
 best I can. This codification may then be used as a reference for what my
-actualized self could be, providing a clearer meaningful direction for my life.
+actualized self could be like, clarifying a meaningful direction for my life.
+I consider this an extremely important exercise for personal self-reflection.
+It is easy for anybody to become remote from what they truly value, living
+through the routines of everyday life. By forcing myself to write-down and
+cultivate my values I hope it will keep me more focused on the things I find
+most important.
 
-These include some frameworks aiding thinking about how one should act,
-inspired by thinking on normative ethics. Also included is a directory of
-common value areas with my opinions on them.
+The structure I've made includes some frameworks aiding thinking about how one
+should act, inspired by thinking on normative ethics. To provide examples of
+these frameworks applied, also included is a directory of common value areas
+with my opinions on them.
 
+[values]: https://en.wikipedia.org/wiki/Value_(ethics)
 
 ## Frameworks
 
 Working out what I value is a difficult problem. Even just starting to think
 about it is a task. Thankfully, there's been lots of thinking done in the past
 in the field of [normative ethics][]. This field is concerned with exploring
-the question: 'How should one act?'. How do we decide what valuable behaviour
+the questions: How should one act? How do we decide what valuable behaviour
 is? From summaries of the most well known works in this area, three main
-concepts to drive personal values presented themselves to me:
+concepts to drive personal values presented themselves to me.
 
 Virtues
 : Acting in accordance with desirable personal traits.
@@ -35,12 +42,13 @@ Outcomes
 Each concept is interesting, full of ambiguity and should be explored.
 
 Each answer also seem flawed when used wholly. If I only ever lived for
-outcomes and achievement, what kind of person would I become? Similarly if
+outcomes and achievement, would I neglect other aspects of living? Similarly if
 I always followed strict morality but never achieved anything, what would I be
 leaving behind?
 
 When properly explored, I think each of these concepts could be used as
-a framework for deciding between one action or another.
+a framework for deciding what kinds of actions are right and what kinds are
+wrong.
 
 [normative ethics]: https://en.wikipedia.org/wiki/Normative_Ethics
 
@@ -107,7 +115,24 @@ Self-sufficiency
 Sociability
 : Being proactive in bringing people together.
 
+Reflecting upon each of these is easy. One may just think of each virtue as
+a personal standard. Then it can be used to compare with how one has behaved
+recently. Like I may compare myself to the _Sociability_ virtue by asking
+myself "How have I brought people together in the past few weeks?" The
+answer is usually quite intuitive, but may require asking other people for
+opinions.
+
+From this, I can identify how my behaviour should change. Alternatively I may find
+that my behaviour at the moment doesn't need to change to fit my virtues, and
+this is important. With virtues, it is possible for you to approach an
+actualized version of yourself, and this occurs when you feel no significant
+moral weakness in your behaviour. That's not to say that one stays in this state
+forever once reached, your live changes and values will also change. But an end
+is possible, which makes measuring yourself against virtues seem like a less
+[Sisyphean][] task.
+
 [personal virtues]: http://www.thirteenvirtues.com/
+[Sisyphean]: https://en.wikipedia.org/wiki/Sisyphus
 
 [^friends]: These virtues are defined here in my words but most were inspired
 by particular people I've met in my life. Each have been so inspiring that
@@ -221,14 +246,14 @@ https://www.goodreads.com/book/show/3250347-the-happiness-trap
 
 Familial, platonic and romantic relationships.
 
-#### What sort of relationships do you want to build?
+> What sort of relationships do you want to build?
 
 Ones that don't just exist on the surface, that have real connection to what
 the other person really strives for in life. That cut at the core of what the
 other person really values and try to find common ground, where you can truly
 relate to each other.
 
-#### How do you want to behave in these relationships?
+> How do you want to behave in these relationships?
 
 * To listen well and attentively.
 * To not be the main character type, be genuinely concerned about the other person.
@@ -240,7 +265,7 @@ relate to each other.
 * Assertive when they are being objectively abusive.
 * To make the other person feel like you're thinking of them.
 
-#### What sort of ongoing activities do you want to do with some of these people?
+> What sort of ongoing activities do you want to do with some of these people?
 
 Chances to explore each other. Like informal trips for tea and coffee, to chat
 one-on-one in a more interesting manner, even if it's somebody relatively
@@ -253,24 +278,25 @@ person, phone calls and not so much messaging.
 Workplace and career. Also education and knowledge or further skills
 development.
 
-#### What personal qualities would you like to bring to the workplace?
+> What personal qualities would you like to bring to the workplace?
+
 Productivity, helpfulness, truthfulness over compliance, curiosity, rigour,
 justice.
 
-#### How would you behave toward your colleagues if you were the 'ideal you'?
+> How would you behave toward your colleagues if you were the 'ideal you'?
 
 Respectful of how their personal life has precedence. Being civil in any
 disagreement. Respectful of their background and experience. Cheerful in the
 face of looming situations. Openly communicating issues and shortcomings in
 knowledge.
 
-#### What relationships do you want to build in the workplace or at school?
+> What relationships do you want to build in the workplace or at school?
 
 Like in my personal life, not existing completely on the surface, but digging
 at the root of what the person is all about. What's their pursuit? What drives
 them to the same place I am?
 
-#### What skills, knowledge or personal qualities do you want to develop?
+> What skills, knowledge or personal qualities do you want to develop?
 
 Persuasiveness, confidence, engaging teaching, quantitative reasoning. Being
 well informed about making career choices.
@@ -280,7 +306,7 @@ well informed about making career choices.
 Activities that aid my ongoing development as a human-being physically,
 emotionally and mentally.
 
-#### What ongoing activities would you like to start or take up again?
+> What ongoing activities would you like to start or take up again?
 
 I'd like to learn languages and read foreign language books. To tackle abstract
 mathematical issues and teach about them. I'd like to keep my muscles
@@ -290,7 +316,7 @@ making the most of the social connections I can make in the place where I live.
 I want to live in my everyday life according to the current unanimously
 accepted health advice.
 
-#### What groups or centres would you like to join?
+> What groups or centres would you like to join?
 
 Maybe some kind of social welfare charity, a group of professionals, a book
 club, a debating club, toastmasters.
@@ -299,13 +325,11 @@ club, a debating club, toastmasters.
 
 How I play, relax or enjoy myself. Sports, hobbies, arts, etc.
 
-#### How do you wish to relax or have fun in a healthy, life-enhancing way?
+> How do you wish to relax or have fun in a healthy, life-enhancing way?
 
 Dating, reading and exploring. Hanging out with close family and friends.
 
-#### What sorts of activities would you like to take up or do more of?
+> What sorts of activities would you like to take up or do more of?
 
 Maybe learn to dance and cook better. Visit art and museums, use this as
 spiritual guidance.
-
-## Notes

@@ -21,7 +21,7 @@ html {
 }
 
 body {
-    color: black;
+    color: #444;
     margin: 0 auto 0 auto;
     max-width: 38rem;
     font-family: system-ui, "Segoe UI";
@@ -32,9 +32,12 @@ body {
     letter-spacing: -0.04em;
 }
 
+h1,h2,h3,h4 {
+    color: black;
+}
+
 p, dl {
     line-height: 1.4;
-    color: #333;
 }
 
 p {
@@ -43,7 +46,7 @@ p {
 
 hr {
     border: 0;
-    height: 0.5px;
+    height: 1px;
     background: lightgrey;
 }
 
@@ -89,12 +92,22 @@ div#footer {
 
     div#content h1, div#content h2, div#content h3, div#content h4,
     div#content p,
-    div#content dl,
     div#content table,
-    div.info
+    div.info,
+    div#content blockquote,
+    section.footnotes
     {
         margin-left: 1rem;
         margin-right: 1rem;
+    }
+
+    div#content blockquote > p {
+        margin-left: 0;
+    }
+
+    div#content dl {
+        border-left: none;
+        border-right: none;
     }
 
     p {
@@ -196,21 +209,32 @@ a:hover {
 
 dl {
     hyphens: none;
-    display: grid;
+    padding: 1.2rem;
+    background: #fafafa;
+    border: 2px #eee solid;
+}
+
+
+dl + p {
+    padding-top: 1rem;
 }
 
 dl dt {
-    font-weight: 500;
-    grid-column: 1;
-    text-align: right;
+    font-style: italic;
 }
 
 dl dd {
     margin-left: 1rem;
     margin-bottom: 1rem;
-    grid-column: 2;
 }
 
 a.footnote-ref, a.footnote-back {
     text-decoration: none;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: #ddd 0.2rem solid;
+    margin-left: 0;
+    padding-left: 0.5rem;
 }
