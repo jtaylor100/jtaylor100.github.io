@@ -1,6 +1,6 @@
 ---
 title: My Values
-date: 2019-04-22
+date: 2019-05-06
 ---
 
 ## Introduction
@@ -67,6 +67,9 @@ I think there are a few traits in people which I inherently value. Some more
 than others. These are all things that could be used to direct my everyday
 actions. They have a great deal of overlap, but I think this is inevitable. So
 in following Franklin's example, here are a list of my personal virtues.[^friends]
+
+Accepting
+: Wanting to receive others as they are, without prejudice.
 
 Adventurous
 : Willing to take risk, sensibly.
@@ -192,6 +195,7 @@ of.
 The final framework is defining a morally right act (or decision not to act) as
 one that will produce a good outcome or consequence. Unsurprisingly, there are
 many different theories as to what 'a good outcome or consequence' means.
+I haven't yet formed my own theory, but here I have listed some well-known ones.
 
 [Utilitarianism][]
 : The greatest social benefit for the greatest number of people.
