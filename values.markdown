@@ -1,6 +1,6 @@
 ---
 title: My Values
-date: 2019-05-06
+date: 2019-05-19
 ---
 
 ## Introduction
@@ -23,12 +23,12 @@ with my opinions on them.
 
 ## Frameworks
 
-Working out what I value is a difficult problem. Even just starting to think
-about it is a task. Thankfully, there's been lots of thinking done in the past
-in the field of [normative ethics][]. This field is concerned with exploring
-the questions: How should one act? How do we decide what valuable behaviour
-is? From summaries of the most well known works in this area, three main
-concepts to drive personal values presented themselves to me.
+Working out what I value is a difficult problem. Thankfully, there's been lots
+of thinking done in the past within the philosophical field of [normative
+ethics][]. This field is concerned with exploring the questions: How should one
+act? How do we decide what valuable behaviour is? From summaries of the most
+well known works in this area, three main frameworks to drive personal values
+presented themselves to me.
 
 Virtues
 : Acting in accordance with desirable personal traits.
@@ -39,16 +39,12 @@ Rules
 Outcomes
 : Choosing actions with desirable outcomes.
 
-Each concept is interesting, full of ambiguity and should be explored.
+When used wholly, each seems flawed. If I only ever lived for outcomes, would
+I neglect other aspects of living? Similarly, if I always followed strict
+morality but never achieved anything, what would I be leaving behind?
 
-Each answer also seem flawed when used wholly. If I only ever lived for
-outcomes and achievement, would I neglect other aspects of living? Similarly if
-I always followed strict morality but never achieved anything, what would I be
-leaving behind?
-
-When properly explored, I think each of these concepts could be used as
-a framework for deciding what kinds of actions are right and what kinds are
-wrong.
+After suitable exploration, I think each of these frameworks could really help
+determine the kinds of actions I find valuable.
 
 [normative ethics]: https://en.wikipedia.org/wiki/Normative_Ethics
 
