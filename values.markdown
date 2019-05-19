@@ -234,44 +234,51 @@ your community or society.
 
 There's this questionnaire in _[The Happiness Trap][]_ by Russ Harris that
 cycles through some of the most common things people value and asks your
-position on them. It's been helpful in getting me to apply the above frameworks
-directly to everyday situations, making them less abstract.
+position on them. It's been helpful to generate examples of the above
+frameworks in context, making them seem less abstract.
 
 These cover relationships, work, personal growth and leisure.
 
-[The Happiness Trap]:
-https://www.goodreads.com/book/show/3250347-the-happiness-trap
+[The Happiness Trap]: https://www.goodreads.com/book/show/3250347-the-happiness-trap
 
 ### Relationships
 
-Familial, platonic and romantic relationships.
+Intimate familial, platonic and romantic relationships.
 
 > What sort of relationships do you want to build?
 
 Ones that don't just exist on the surface, that have real connection to what
 the other person really strives for in life. That cut at the core of what the
 other person really values and try to find common ground, where you can truly
-relate to each other.
+relate to each other. To feel and accept love, in whatever form it may
+manifest.
 
 > How do you want to behave in these relationships?
 
 * To listen well and attentively.
-* To not be the main character type, be genuinely concerned about the other person.
+* To not be the main character type, be genuinely concerned about the other
+  person.
 * To communicate clearly and without complication.
 * To be honest and forthright.
-* Accepting and understanding when the other person doesn't behave how I would like them to.
+* Accepting and understanding when the other person doesn't behave how I would
+  like them to.
 * Not reading too much into what isn't there.
 * Not acting nervous about what they might say.
-* Assertive when they are being objectively abusive.
-* To make the other person feel like you're thinking of them.
+* Assertive when they are being objectively abusive or when they are using me
+  as a means to an end.
+* Trying to make the other person feel like you're thinking of them.
+* Trying to make them feel accepted; however they may feel or whatever may
+  befall upon them.
 
 > What sort of ongoing activities do you want to do with some of these people?
 
-Chances to explore each other. Like informal trips for tea and coffee, to chat
-one-on-one in a more interesting manner, even if it's somebody relatively
-unknown.  Also more structured activities like debating clubs, baking, creative
-activities or other social-based games. Whilst physically separated from the
-person, phone calls and not so much messaging.
+Chances to explore each other. Activities we can do together that may spark
+interesting conversation. Like baking, hiking, learning a new skill or
+working on something fun together. Generally for intimate relationships,
+most of the time would be one-on-one since larger groups of people dilute the
+intimacy. But also to enjoy more light-hearted time together comfortably with
+other friends. Whilst physically separated from the person, phone calls and not
+so much messaging.
 
 ### Work/Education
 
@@ -303,23 +310,23 @@ well informed about making career choices.
 
 ### Personal Growth/Health
 
-Activities that aid my ongoing development as a human-being physically,
-emotionally and mentally.
+Activities that aid my ongoing development as a person physically, emotionally
+and mentally.
+
+> What aspects of your life would you like to maintain to ensure your growth as
+> a person?
+
+I would like to maintain the four pillars of well-being: sleeping, eating well,
+exercising enough and keeping my closest relationships. These will often take
+priority over most of my values. I want to continue to spend lots of time
+reading, lots of personal development would not be possible without it. I would
+also like to participate in some kind of therapy for the rest of my life, for
+the sake of understanding my self better.
 
 > What ongoing activities would you like to start or take up again?
 
-I'd like to learn languages and read foreign language books. To tackle abstract
-mathematical issues and teach about them. I'd like to keep my muscles
-strengthened. I would like to maintain therapy either with a professional or
-through a network of people. I want to maintain a cultivated social circle,
+To improve my abstract problem solving skills. Cultivate a social circle,
 making the most of the social connections I can make in the place where I live.
-I want to live in my everyday life according to the current unanimously
-accepted health advice.
-
-> What groups or centres would you like to join?
-
-Maybe some kind of social welfare charity, a group of professionals, a book
-club, a debating club, toastmasters.
 
 ### Leisure
 
