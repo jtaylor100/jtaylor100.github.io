@@ -10,13 +10,13 @@ best I can. This codification may then be used as a reference for what my
 actualized self could be like, clarifying a meaningful direction for my life.
 I consider this an extremely important exercise for personal self-reflection.
 It is easy for anybody to become remote from what they truly value, living
-through the routines of everyday life. By forcing myself to write-down and
+through the routines of everyday life. By forcing myself to write down and
 cultivate my values I hope it will keep me more focused on the things I find
-most important.
+most important. Or at the very least, keep what is most important clear to me.
 
-The structure I've made includes some frameworks aiding thinking about how one
-should act, inspired by thinking on normative ethics. To provide examples of
-these frameworks applied, also included is a directory of common value areas
+The structure I've chosen includes some frameworks aiding thinking about how
+one should act, inspired by thinking on normative ethics. To provide examples
+of these frameworks applied, also included is a directory of common value areas
 with my opinions on them.
 
 [values]: https://en.wikipedia.org/wiki/Value_(ethics)
