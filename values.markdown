@@ -194,9 +194,6 @@ you would wish upon yourself if you were in the shoes of the person it is
 helping. Charity not as a means to an end but as an end-in-itself, recognising
 it's intrinsic value.
 
-I need to explore this some more since universal laws are quite hard to think
-of.
-
 [categorical imperative]: https://en.wikipedia.org/wiki/Categorical_imperative
 [Immanual Kant]: https://en.wikipedia.org/wiki/Immanuel_Kant
 
