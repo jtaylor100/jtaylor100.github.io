@@ -2,12 +2,10 @@
 title: About Josh
 ---
 
-
-I am a software developer, recently graduated, trying to progress himself as a
-professional. My personal technology interests lie in [functional
-programming][] with languages such as [Lisp][] and [Haskell][].
-
 ![Me drinking some tea in [Hebden Bridge][], April 2018](/images/josh.png)
+
+I am a software developer, trying to develop himself as a
+professional. 
 
 I was raised in [Barrington][], Cambridgeshire in the English countryside. My
 ideal Saturday is enjoying a caffeinated breakfast with friends.
