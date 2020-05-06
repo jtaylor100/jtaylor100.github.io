@@ -1,18 +1,11 @@
 html {
   font-size: 16px;
 
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-   hyphens: auto;
 }
 @media screen and (min-width: 320px) {
   html {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   }
-
 }
 @media screen and (min-width: 1000px) {
   html {
@@ -81,6 +74,17 @@ div#footer {
     margin: 2rem 0;
     padding: 0.5rem 0 0.5rem 0;
     text-align: right;
+}
+
+@media (min-width: 600px) {
+    html {
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+
+      -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+       hyphens: auto;
+   }
 }
 
 @media (max-width: 600px) {
