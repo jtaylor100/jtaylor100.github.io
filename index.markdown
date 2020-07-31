@@ -2,16 +2,13 @@
 title: Home
 ---
 
+<blockquote>
+    <p>...of course one may suffer a long time without knowing it. Thus the years went by.</p> 
+    <footer>--- Albert Camus</footer>
+</blockquote>
+
 Welcome to my blog. You can read some things [about me](../about.html) or choose
 a title from the list below that sounds relatable.
-
-I try to write-up useful things I learn during my work. Usually journals of how I have
-worked or of something that has occurred. Aimed towards anybody who has a role in production
-in the software industry, i.e. developers, testers, management, communication, ... I would also
-like to progess towards doing original research or rigourous reviews of existing research.
-
-Also included are some accounts and essays inspired from my personal life. People who know me
-personally may find these interesting to read in order to understand my story.
 
 <script type="application/ld+json">
     {
@@ -74,7 +71,7 @@ personally may find these interesting to read in order to understand my story.
 	"license": "https://creativecommons.org/licenses/by/4.0",
 	"locationCreated": [
 	    {
-		"@type":"Country",
+		"@type":"City",
 		"name": "Kingston upon Hull",
 		"containedInPlace": {
 		    "@type": "Country",
@@ -94,7 +91,7 @@ personally may find these interesting to read in order to understand my story.
 	    "@type": "Organization",
 	    "name": "Github, Inc."
 	},
-	"description": "Musings from the software industry and life through the eyes of Josh Taylor.",
+	"description": "Musings from life through the eyes of Josh Taylor",
 	"name": "Josh Taylor's Blog",
 	"url": "https://joshtaylor.blog"
     }

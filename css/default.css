@@ -241,8 +241,20 @@ a.footnote-ref, a.footnote-back {
 }
 
 blockquote {
+    background-color: #f5f5f5;
+    padding: 1rem;
+    border-radius: 1.5rem;
+}
+
+blockquote > p {
     font-style: italic;
-    border-left: #ddd 0.2rem solid;
-    margin-left: 0;
-    padding-left: 0.5rem;
+    margin-top:0;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
 }
