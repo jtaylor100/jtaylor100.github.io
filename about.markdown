@@ -4,7 +4,7 @@ title: About Josh
 
 ![Me drinking some tea in [Hebden Bridge][], April 2018](/images/josh.png)
 
-*It is uncertain about what lies ahead, but that's the exciting part.*
+*It is uncertain what lies ahead, but that's the exciting part.*
 
 I was raised in [Barrington][], Cambridgeshire in the English countryside. My
 ideal Saturday is spending time with friends, relaxing with a good book or
