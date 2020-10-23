@@ -2,6 +2,7 @@
 title: On Moving Countries
 date: 2020-10-23
 location: Faversham, Kent
+thumbnail: /images/lit-up-library.JPEG
 ---
 
 ![Berlin State Opera, Lit up with vivid colours for the Berlin Festival of lights](/images/lit-up-library.JPEG)\
