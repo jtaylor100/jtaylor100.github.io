@@ -174,3 +174,5 @@ means to live. So while asking a child “What do you want to be when you grow
 up?”, an adult should appreciate that they are re-enforcing this pressure and
 they should remain mindful of the consequences it can have.
 
+* [Discuss this essay on Reddit](https://www.reddit.com/r/philosophy/comments/jrl6gb/on_employment_and_personal_identity/)
+
