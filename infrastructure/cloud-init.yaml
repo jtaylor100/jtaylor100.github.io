@@ -1,0 +1,21 @@
+#cloud-config
+write_files:
+  - content: |
+      [Unit]
+      Description=Goatcounter Server
+      
+      [Service]
+      ExecStart=/goatcounter serve
+      
+      [Install]
+      WantedBy=multi-user.target 
+    path: /etc/systemd/system/goatcounter.service
+runcmd:
+  - curl -L "https://github.com/zgoat/goatcounter/releases/download/v2.0.4/goatcounter-v2.0.4-linux-amd64.gz" > ./goatcounter.gz
+  - gunzip ./goatcounter.gz
+  - chmod +x ./goatcounter
+  - ./goatcounter db create site -vhost stats.joshtaylor.blog -user.email josh@joshtaylor.online -createdb -password ${password}
+  - sudo systemctl daemon-reload
+  - sudo systemctl enable goatcounter 
+  - sudo systemctl start goatcounter
+  
