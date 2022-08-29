@@ -1,8 +1,10 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
+import           Data.Text (pack)
 import           Hakyll
 import           Text.Pandoc.Options
+import           Text.Pandoc.Templates (compileTemplate, Template)
 
 --------------------------------------------------------------------------------
 main :: IO ()
@@ -77,9 +79,8 @@ livingDocument = do
 
 withToc :: WriterOptions
 withToc = defaultHakyllWriterOptions
-    { writerTableOfContents = True
-    , writerTemplate = Just "$toc$\n$body$"
-    }
+    { writerTemplate = Just template }
+  where template = compileTemplate "/tmp/partials.txt" (pack "$toc$\n$body$") >>= 
 
 dateCtx :: Context String
 dateCtx =

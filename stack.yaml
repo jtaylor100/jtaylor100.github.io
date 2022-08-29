@@ -1,7 +1,9 @@
-resolver: lts-12.9
+---
+resolver: lts-18.23
 packages:
-- .
-# extra-deps: []
+  - .
+extra-deps:
+  - hakyll-4.15.1.1@sha256:f6164a8f011c2ea46c9b17da500c2b097c21674a6e8c16b0cfb76460942c7da8,9562 
 # flags: {}
 # extra-package-dbs: []
 # require-stack-version: -any # Default

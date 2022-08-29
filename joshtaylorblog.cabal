@@ -19,4 +19,6 @@ executable joshtaylorblog
   ghc-options:         -threaded -Werror -Wall
   build-depends:       base >= 4.7 && < 5,
                        hakyll,
-                       pandoc
+                       pandoc,
+                       text,
+                       doctemplates
