@@ -1,5 +1,6 @@
 ---
-title: Berlin - A Retrospective
+title: Berlin
+subtitle: A Retrospective
 date: 2020-07-31
 location: Berlin
 ---
