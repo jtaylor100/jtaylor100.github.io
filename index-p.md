@@ -5,7 +5,7 @@ title: Josh Taylor's Blog
 You can read some things [about me](../about.html) or choose a title from the
 list below that sounds relatable.
 
-* [Meditating on the Tube: A London Retrospective ](/posts/meditating-on-the-tube.html)
+* [Meditating on the Tube: An Essay on London ](/posts/meditating-on-the-tube.html)
 * [On Employment and Personal Identity ](/posts/on-employment-and-personal-identity.html)
 * [On Moving Countries ](/posts/on-moving-countries.html)
 * [On Millennials ](/posts/on-millennials.html)
