@@ -5,6 +5,7 @@ title: Josh Taylor's Blog
 You can read some things [about me](../about.html) or choose a title from the
 list below that sounds relatable.
 
+* [On Information, Knowledge and Wisdom ](/posts/on-information-knowledge-and-wisdom.html)
 * [Meditating on the Tube: An Essay on London ](/posts/meditating-on-the-tube.html)
 * [On Employment and Personal Identity ](/posts/on-employment-and-personal-identity.html)
 * [On Moving Countries ](/posts/on-moving-countries.html)
