@@ -5,6 +5,7 @@ title: Josh Taylor's Blog
 You can read some things [about me](../about.html) or choose a title from the
 list below that sounds relatable.
 
+* [On Inevitable Exploitation : Being exploited is unavoidable unless we try something radically new  ](/posts/on-inevitable-exploitation.html)
 * [On Information, Knowledge and Wisdom ](/posts/on-information-knowledge-and-wisdom.html)
 * [Meditating on the Tube: An Essay on London ](/posts/meditating-on-the-tube.html)
 * [On Employment and Personal Identity ](/posts/on-employment-and-personal-identity.html)
